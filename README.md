@@ -17,4 +17,4 @@ If you got a Bootstrap project you'd like to add to our stream, please follow th
 
 ## License
 
-This work by author is licensed under a [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0) license.
+This work is licensed under a [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0) license.
