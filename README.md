@@ -1,7 +1,7 @@
 # Git Bootstrap
 
 ## What is it?
-A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) front-end framework. You will find a detailled list of supported projects in the table below.
+A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) framework. You will find a detailed list of supported projects in the table below.
 
 ## How to participate?
 
