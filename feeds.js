@@ -457,8 +457,8 @@ var feedJson =
   },
   {
     "name":"WP Bootstrap Menu",
-    "page":"http://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss",
-    "feed":""
+    "page":"http://wordpress.org/plugins/wp-bootstrap-navmenu/",
+    "feed":"http://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss"
   },
   {
     "name":"WP-Bootstrap",
