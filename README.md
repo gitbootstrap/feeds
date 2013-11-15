@@ -13,7 +13,7 @@ If you got a Bootstrap project you'd like to add to our stream, please follow th
 
 ## Included Projects
 
-[Click here](http://gitbootstrap.github.io/feeds#projects)
+[Click here](http://gitbootstrap.github.io/feeds/index.html#projects)
 
 ## License
 
