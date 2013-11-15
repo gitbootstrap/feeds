@@ -32,6 +32,7 @@ img{vertical-align:middle;}
 hr{margin-top:20px;margin-bottom:20px;border:0;border-top:1px solid #eeeeee;}
 .sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);border:0;}
 p{margin:0 0 10px;}
+code,kbd,pre,samp{font-family:monospace,serif;font-size:1em}pre{white-space:pre-wrap}
 .lead{margin-bottom:20px;font-size:16px;font-weight:200;line-height:1.4;}@media (min-width:768px){.lead{font-size:21px;}}
 small,.small{font-size:85%;}
 cite{font-style:normal;}
