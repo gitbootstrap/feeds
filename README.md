@@ -11,6 +11,8 @@ If you got a Bootstrap project you'd like to add to our stream, please follow th
 2. Add your project to `feeds.js`, alphabetize by project name
 3. Commit your changes and send a pull request
 
+All entries will be reviewed by a human being.
+
 ## Included Projects
 
 [Click here](http://gitbootstrap.github.io/feeds/index.html#projects)
