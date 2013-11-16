@@ -166,7 +166,7 @@ var feedJson =
     "feed":"https://github.com/eternicode/bootstrap-datepicker/commits/master.atom"
   },
   {
-    "name":"bootstrap-extras",
+    "name":"bootply-extras",
     "page":"https://github.com/iatek/bootply-extras",
     "feed":"https://github.com/iatek/bootply-extras/commits/master.atom"
   },
