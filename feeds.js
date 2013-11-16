@@ -166,6 +166,11 @@ var feedJson =
     "feed":"https://github.com/eternicode/bootstrap-datepicker/commits/master.atom"
   },
   {
+    "name":"bootstrap-extras",
+    "page":"https://github.com/iatek/bootply-extras",
+    "feed":"https://github.com/iatek/bootply-extras/commits/master.atom"
+  },
+  {
     "name":"bootstrap-google-plus",
     "page":"https://github.com/iatek/bootstrap-google-plus",
     "feed":"https://github.com/iatek/bootstrap-google-plus/commits/master.atom"
