@@ -51,16 +51,6 @@ var feedJson =
     "feed":"https://drupal.org/node/259843/commits/feed"
   },
   {
-    "name":"bootstrap-3-upgrade",
-    "page":"https://github.com/iatek/bootstrap-3-upgrade",
-    "feed":"https://github.com/iatek/bootstrap-3-upgrade/commits/master.atom"
-  },
-  {
-    "name":"bootstrap-google-plus",
-    "page":"https://github.com/iatek/bootstrap-google-plus",
-    "feed":"https://github.com/iatek/bootstrap-google-plus/commits/master.atom"
-  },
-  {
     "name":"Bootstrap Admin for Wordpress",
     "page":"https://github.com/aristath/bootstrap-admin/commits",
     "feed":"https://github.com/aristath/bootstrap-admin/commits/master.atom"
@@ -161,6 +151,11 @@ var feedJson =
     "feed":"https://github.com/twbs/bootstrap/commits/master.atom"
   },
   {
+    "name":"bootstrap-3-upgrade",
+    "page":"https://github.com/iatek/bootstrap-3-upgrade",
+    "feed":"https://github.com/iatek/bootstrap-3-upgrade/commits/master.atom"
+  },
+  {
     "name":"Bootstrap-CMS",
     "page":"https://github.com/GrahamCampbell/Bootstrap-CMS",
     "feed":"https://github.com/GrahamCampbell/Bootstrap-CMS/commits/master.atom"
@@ -169,6 +164,11 @@ var feedJson =
     "name":"bootstrap-datepicker",
     "page":"https://github.com/eternicode/bootstrap-datepicker",
     "feed":"https://github.com/eternicode/bootstrap-datepicker/commits/master.atom"
+  },
+  {
+    "name":"bootstrap-google-plus",
+    "page":"https://github.com/iatek/bootstrap-google-plus",
+    "feed":"https://github.com/iatek/bootstrap-google-plus/commits/master.atom"
   },
   {
     "name":"bootstrap-notify",
