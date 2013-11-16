@@ -51,6 +51,16 @@ var feedJson =
     "feed":"https://drupal.org/node/259843/commits/feed"
   },
   {
+    "name":"bootstrap-3-upgrade",
+    "page":"https://github.com/iatek/bootstrap-3-upgrade",
+    "feed":"https://github.com/iatek/bootstrap-3-upgrade/commits/master.atom"
+  },
+  {
+    "name":"bootstrap-google-plus",
+    "page":"https://github.com/iatek/bootstrap-google-plus",
+    "feed":"https://github.com/iatek/bootstrap-google-plus/commits/master.atom"
+  },
+  {
     "name":"Bootstrap Admin for Wordpress",
     "page":"https://github.com/aristath/bootstrap-admin/commits",
     "feed":"https://github.com/aristath/bootstrap-admin/commits/master.atom"
