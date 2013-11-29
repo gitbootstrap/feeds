@@ -236,6 +236,11 @@ var feedJson =
     "feed":"https://github.com/dangrossman/bootstrap-daterangepicker/commits/master.atom"
   },
   {
+    "name":"dir-listing-bootstrap",
+    "page":"https://github.com/ael-code/dir-listing-bootstrap",
+    "feed":"https://github.com/ael-code/dir-listing-bootstrap/commits/master.atom"
+  },
+  {
     "name":"Django Bootstrap Toolkit",
     "page":"https://github.com/dyve/django-bootstrap-toolkit",
     "feed":"https://github.com/dyve/django-bootstrap-toolkit/commits/master.atom"
@@ -249,6 +254,11 @@ var feedJson =
     "name":"django-bootstrap3",
     "page":"https://github.com/dyve/django-bootstrap3",
     "feed":"https://github.com/dyve/django-bootstrap3/commits/master.atom"
+  },
+  {
+    "name":"DocStrap",
+    "page":"https://github.com/terryweiss/docstrap",
+    "feed":"https://github.com/terryweiss/docstrap/commits/master.atom"
   },
   {
     "name":"Easy Bootstrap Shortcodes",
