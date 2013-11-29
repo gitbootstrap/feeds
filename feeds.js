@@ -201,6 +201,11 @@ var feedJson =
     "feed":"https://github.com/mindmup/bootstrap-wysiwyg/commits/master.atom"
   },
   {
+    "name":"BootstrapCDN Wordpress Plugin",
+    "page":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin",
+    "feed":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin/commits/master.atom"
+  },
+  {
     "name":"BootstrapCSSEditor",
     "page":"https://github.com/TupleGeo/BootstrapCSSEditor",
     "feed":"https://github.com/TupleGeo/BootstrapCSSEditor/commits/master.atom"
