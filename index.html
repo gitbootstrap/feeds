@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="feedJson">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,14 +40,11 @@
               <th>Feed</th>
             </tr>
           </thead>
-          <tbody>
-            <script type='text/template' id='src'>
-            {{#each .}}
-            <tr>
-              <td><a href="{{page}}">{{name}}</a></td>
-              <td><a href="{{feed}}"><i class="fa fa-rss"></a></td>
+          <tbody ng-controller="FeedCtrl">
+            <tr ng-repeat="feed in feeds">
+              <td><a href="{{feed.page}}">{{feed.name}}</a></td>
+              <td><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
             </tr>
-            {{/each}}
             </script>
             <tr>
           </tbody>
@@ -61,13 +58,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.5/angular.min.js"></script>
     <script src="feeds.js"></script>
-    <script type="text/javascript">
-      var source   = $("#src").html();
-      var template = Handlebars.compile(source);
-      $("tbody").append( template(feedJson) );
-    </script>
   </body>
 </html>
