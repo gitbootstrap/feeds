@@ -44,6 +44,11 @@ feedJson.controller('FeedCtrl', function ($scope) {
       "feed":"https://github.com/iatek/bootply/commits/master.atom"
     },
     {
+      "name":"Bootstrap::Sass::Rails",
+      "page":"https://github.com/yabawock/bootstrap-sass-rails",
+      "feed":"https://github.com/yabawock/bootstrap-sass-rails/commits/develop.atom"
+    },
+    {
       "name":"Bootstrap - AngularJS directives",
       "page":"https://github.com/angular-ui/bootstrap",
       "feed":"https://github.com/angular-ui/bootstrap/commits/master.atom"
@@ -65,8 +70,8 @@ feedJson.controller('FeedCtrl', function ($scope) {
     },
     {
       "name":"Bootstrap for Sass",
-      "page":"https://github.com/thomas-mcdonald/bootstrap-sass",
-      "feed":"https://github.com/thomas-mcdonald/bootstrap-sass/commits/master.atom"
+      "page":"https://github.com/twbs/bootstrap-sass",
+      "feed":"https://github.com/twbs/bootstrap-sass/commits/master.atom"
     },
     {
       "name":"Bootstrap Form Builder",
@@ -334,9 +339,14 @@ feedJson.controller('FeedCtrl', function ($scope) {
       "feed":"https://github.com/mojeda/GhostStrap/commits/master.atom"
     },
     {
-      "name":"GWT-Bootstrap",
+      "name":"Git Bootstrap",
       "page":"https://github.com/gwtbootstrap/gwt-bootstrap",
       "feed":"https://github.com/gwtbootstrap/gwt-bootstrap/commits/master.atom"
+    },
+    {
+      "name":"GWT-Bootstrap",
+      "page":"https://github.com/gitbootstrap",
+      "feed":"https://github.com/gitbootstrap/feeds/commits/master.atom"
     },
     {
       "name":"Iron Bootstrap",
@@ -402,6 +412,11 @@ feedJson.controller('FeedCtrl', function ($scope) {
       "name":"Roots Wordpress Theme",
       "page":"https://github.com/roots/roots",
       "feed":"https://github.com/roots/roots/commits/master.atom"
+    },
+    {
+      "name":"Sass Bootstrap",
+      "page":"https://github.com/jlong/sass-bootstrap",
+      "feed":"https://github.com/jlong/sass-bootstrap/commits/master.atom"
     },
     {
       "name":"Shoestrap",
