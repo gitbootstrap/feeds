@@ -340,13 +340,13 @@ feedJson.controller('FeedCtrl', function ($scope) {
     },
     {
       "name":"Git Bootstrap",
-      "page":"https://github.com/gwtbootstrap/gwt-bootstrap",
-      "feed":"https://github.com/gwtbootstrap/gwt-bootstrap/commits/master.atom"
+      "page":"https://github.com/gitbootstrap",
+      "feed":"https://github.com/gitbootstrap/feeds/commits/master.atom"
     },
     {
       "name":"GWT-Bootstrap",
-      "page":"https://github.com/gitbootstrap",
-      "feed":"https://github.com/gitbootstrap/feeds/commits/master.atom"
+      "page":"https://github.com/gwtbootstrap/gwt-bootstrap",
+      "feed":"https://github.com/gwtbootstrap/gwt-bootstrap/commits/master.atom"
     },
     {
       "name":"Iron Bootstrap",

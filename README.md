@@ -19,4 +19,4 @@ All entries will be reviewed by a human being.
 
 ## License
 
-This work is licensed under a [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0) license.
+This work is licensed under a [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
