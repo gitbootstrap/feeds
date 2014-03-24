@@ -57,6 +57,10 @@ feedJson.controller('FeedCtrl', function($scope) {
             "page": "https://github.com/VinceG/Bootstrap-Admin-Theme",
             "feed": "https://github.com/VinceG/Bootstrap-Admin-Theme/commits/master.atom"
         }, {
+            "name": "Bootstrap for Ember",
+            "page": "https://github.com/ember-addons/bootstrap-for-ember",
+            "feed": "https://github.com/ember-addons/bootstrap-for-ember/commits/master.atom"
+        }, {
             "name": "Bootstrap for Sass",
             "page": "https://github.com/twbs/bootstrap-sass",
             "feed": "https://github.com/twbs/bootstrap-sass/commits/master.atom"
@@ -172,6 +176,10 @@ feedJson.controller('FeedCtrl', function($scope) {
             "name": "bootstrap-wysiwyg",
             "page": "https://github.com/mindmup/bootstrap-wysiwyg",
             "feed": "https://github.com/mindmup/bootstrap-wysiwyg/commits/master.atom"
+        }, {
+            "name": "bootstrap_dashboard",
+            "page": "https://github.com/jhw/bootstrap_dashboard",
+            "feed": "https://github.com/jhw/bootstrap_dashboard/commits/master.atom"
         }, {
             "name": "BootstrapCDN Wordpress Plugin",
             "page": "https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin",
