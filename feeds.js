@@ -337,10 +337,6 @@ feedJson.controller('FeedCtrl', function($scope) {
             "page": "https://github.com/inadarei/nodebootstrap",
             "feed": "https://github.com/inadarei/nodebootstrap/commits/master.atom"
         }, {
-            "name": "Paraíso Bootstrap Listr",
-            "page": "https://github.com/idleberg/Paraiso-Bootstrap-Listr",
-            "feed": "https://github.com/idleberg/Paraiso-Bootstrap-Listr/commits/master.atom"
-        }, {
             "name": "Roots Wordpress Theme",
             "page": "https://github.com/roots/roots",
             "feed": "https://github.com/roots/roots/commits/master.atom"
