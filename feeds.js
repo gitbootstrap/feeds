@@ -325,6 +325,10 @@ feedJson.controller('FeedCtrl', function($scope) {
             "page": "https://github.com/metaskills/less-rails-bootstrap",
             "feed": "https://github.com/metaskills/less-rails-bootstrap/commits/master.atom"
         }, {
+            "name": "M8tro Bootstrap Theme",
+            "page": "https://github.com/idleberg/m8tro-bootstrap",
+            "feed": "https://github.com/idleberg/m8tro-bootstrap/commits/master.atom"
+        }, {
             "name": "metro-bootstrap",
             "page": "https://github.com/TalksLab/metro-bootstrap",
             "feed": "https://github.com/TalksLab/metro-bootstrap/commits/master.atom"
