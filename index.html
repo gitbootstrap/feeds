@@ -36,14 +36,14 @@
         <table class="table">
           <thead>
             <tr>
-              <th>Project</th>
-              <th>Feed</th>
+              <th class="text-left">Project</th>
+              <th class="text-right">Feed</th>
             </tr>
           </thead>
           <tbody ng-controller="FeedCtrl">
             <tr ng-repeat="feed in feeds">
-              <td><a href="{{feed.page}}">{{feed.name}}</a></td>
-              <td><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
+              <td class="text-left"><a href="{{feed.page}}">{{feed.name}}</a></td>
+              <td class="text-right"><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
             </tr>
             </script>
             <tr>
