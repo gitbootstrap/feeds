@@ -1,59 +1,59 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="feedJson">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Git Bootstrap">
-    <meta name="author" content="Jan T. Sott">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Git Bootstrap">
+  <meta name="author" content="Jan T. Sott">
 
-    <title>Git Bootstrap</title>
+  <title>Git Bootstrap</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/style.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <!-- Google Fonts -->
-    <link href='//fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
-  </head>
+  <!-- Bootstrap core CSS -->
+  <link href="css/style.css" rel="stylesheet">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href='//fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+</head>
 
-  <body>
-    <div class="container">
-        <h1>Git Bootstrap</h1>
-        <h3>What is it?</h3>
-        <p>A <a href="http://twitter.com/gitbootstrap" target="_blank">Twitter</a> feed triggered by <a href="http://git-scm.com/docs/git-commit" target="_blank">Git commits</a> to one of the many projects building upon the <a href="http://getbootstrap.com" target="_blank">Bootstrap</a> framework. You will find a detailed list of supported projects in the table below.</p>
-        
-        <h3 id="participate">How to participate?</h3>
-        <p>
-          If you got a Bootstrap project you'd like to add to our stream, please follow these steps:
-          <ol>
-            <li>Fork the <a href="https://github.com/gitbootstrap/feeds">repository</a> for our feed</li>
-            <li>Add your project to <code>feeds.js</code>, alphabetize by project name</li>
-            <li>Commit your changes and send a pull request</li>
-          </ol>
-          All entries will be reviewed by a human being.
-        </p>
-        
-        <div class="jumbotron">
-          <h3 id="projects">Included Projects</h3>
-          <table class="table">
-            <thead>
-              <tr>
-                <th class="text-left">Project</th>
-                <th class="text-right">Feed</th>
-              </tr>
-            </thead>
-            <tbody ng-controller="FeedCtrl">
-              <tr ng-repeat="feed in feeds">
-                <td class="text-left"><a href="{{feed.page}}">{{feed.name}}</a></td>
-                <td class="text-right"><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
+<body>
+  <div class="container">
+    <h1>Git Bootstrap</h1>
+    <h3>What is it?</h3>
+    <p>A <a href="http://twitter.com/gitbootstrap" target="_blank">Twitter</a> feed triggered by <a href="http://git-scm.com/docs/git-commit" target="_blank">Git commits</a> to one of the many projects building upon the <a href="http://getbootstrap.com" target="_blank">Bootstrap</a> framework. You will find a detailed list of supported projects in the table below.</p>
+    
+    <h3 id="participate">How to participate?</h3>
+    <p>
+      If you got a Bootstrap project you'd like to add to our stream, please follow these steps:
+      <ol>
+        <li>Fork the <a href="https://github.com/gitbootstrap/feeds">repository</a> for our feed</li>
+        <li>Add your project to <code>feeds.js</code>, alphabetize by project name</li>
+        <li>Commit your changes and send a pull request</li>
+      </ol>
+      All entries will be reviewed by a human being.
+    </p>
+    
+    <h3 id="projects">Included Projects</h3>
+    <div class="jumbotron">
+      <table class="table">
+        <thead>
+          <tr>
+            <th class="text-left">Project</th>
+            <th class="text-right">Feed</th>
+          </tr>
+        </thead>
+        <tbody ng-controller="FeedCtrl">
+          <tr ng-repeat="feed in feeds">
+            <td class="text-left"><a href="{{feed.page}}">{{feed.name}}</a></td>
+            <td class="text-right"><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
-        <h3>License</h3>
-        <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
+    <h3>License</h3>
+    <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
 
-    </div><!-- /.container -->
+  </div><!-- /.container -->
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -61,4 +61,4 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.5/angular.min.js"></script>
     <script src="feeds.js"></script>
   </body>
-</html>
+  </html>
