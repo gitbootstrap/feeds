@@ -31,24 +31,24 @@
           </ol>
           All entries will be reviewed by a human being.
         </p>
-
-        <h3 id="projects">Included Projects</h3>
-        <table class="table">
-          <thead>
-            <tr>
-              <th class="text-left">Project</th>
-              <th class="text-right">Feed</th>
-            </tr>
-          </thead>
-          <tbody ng-controller="FeedCtrl">
-            <tr ng-repeat="feed in feeds">
-              <td class="text-left"><a href="{{feed.page}}">{{feed.name}}</a></td>
-              <td class="text-right"><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
-            </tr>
-            </script>
-            <tr>
-          </tbody>
-        </table>
+        
+        <div class="jumbotron">
+          <h3 id="projects">Included Projects</h3>
+          <table class="table">
+            <thead>
+              <tr>
+                <th class="text-left">Project</th>
+                <th class="text-right">Feed</th>
+              </tr>
+            </thead>
+            <tbody ng-controller="FeedCtrl">
+              <tr ng-repeat="feed in feeds">
+                <td class="text-left"><a href="{{feed.page}}">{{feed.name}}</a></td>
+                <td class="text-right"><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
         <h3>License</h3>
         <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
