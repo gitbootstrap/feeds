@@ -1,0 +1,12 @@
+{
+  "name": "gitbootstrap",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp":        "~3.8.7",
+    "gulp-jshint": "~1.8.4"
+  },
+  "scripts": {
+    "test": "gulp lint"
+  }
+}
