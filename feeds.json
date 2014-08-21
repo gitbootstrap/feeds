@@ -26,7 +26,7 @@
    },
    {  
       "name":"Bootplus",
-      "page":"https://github.com/aozora/bootplus/commits",
+      "page":"https://github.com/aozora/bootplus",
       "feed":"https://github.com/aozora/bootplus/commits/master.atom"
    },
    {  
@@ -50,8 +50,8 @@
       "feed":"https://drupal.org/node/259843/commits/feed"
    },
    {  
-      "name":"Bootstrap Admin for Wordpress",
-      "page":"https://github.com/aristath/bootstrap-admin/commits",
+      "name":"Bootstrap Admin for WordPress",
+      "page":"https://github.com/aristath/bootstrap-admin",
       "feed":"https://github.com/aristath/bootstrap-admin/commits/master.atom"
    },
    {  
@@ -225,7 +225,7 @@
       "feed":"https://github.com/jhw/bootstrap_dashboard/commits/master.atom"
    },
    {  
-      "name":"BootstrapCDN Wordpress Plugin",
+      "name":"BootstrapCDN WordPress Plugin",
       "page":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin",
       "feed":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin/commits/master.atom"
    },
@@ -495,7 +495,7 @@
       "feed":"https://github.com/inadarei/nodebootstrap/commits/master.atom"
    },
    {  
-      "name":"Roots Wordpress Theme",
+      "name":"Roots Starter Theme",
       "page":"https://github.com/roots/roots",
       "feed":"https://github.com/roots/roots/commits/master.atom"
    },
@@ -531,7 +531,7 @@
    },
    {  
       "name":"Strapdown.js",
-      "page":"https://github.com/arturadib/strapdown/commits",
+      "page":"https://github.com/arturadib/strapdown",
       "feed":"https://github.com/arturadib/strapdown/commits/gh-pages.atom"
    },
    {  
