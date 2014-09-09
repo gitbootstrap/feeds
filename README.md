@@ -1,4 +1,4 @@
-# Git Bootstrap [![Build Status](https://secure.travis-ci.org/gitbootstrap/feeds.png)](http://travis-ci.org/gitbootstrap/feeds)
+# Git Bootstrap [![Build Status](https://secure.travis-ci.org/gitbootstrap/feeds.svg)](http://travis-ci.org/gitbootstrap/feeds)
 
 ## What is it?
 A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) framework. You will find a detailed list of supported projects in the table below.
