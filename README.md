@@ -19,4 +19,4 @@ All entries will be reviewed by a human being.
 
 ## License
 
-This work is licensed under a [Creative Commons CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/legalcode).
+This work is licensed under the [Creative Commons CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/legalcode).
