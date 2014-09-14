@@ -45,11 +45,6 @@
       "feed":"https://github.com/angular-ui/bootstrap/commits/master.atom"
    },
    {  
-      "name":"Bootstrap 3 for Drupal",
-      "page":"https://drupal.org/project/bootstrap",
-      "feed":"https://drupal.org/node/259843/commits/feed"
-   },
-   {  
       "name":"Bootstrap Admin for WordPress",
       "page":"https://github.com/aristath/bootstrap-admin",
       "feed":"https://github.com/aristath/bootstrap-admin/commits/master.atom"
@@ -126,8 +121,8 @@
    },
    {  
       "name":"Bootstrap Shortcodes",
-      "page":"http://wordpress.org/plugins/bootstrap-shortcodes/",
-      "feed":"http://plugins.trac.wordpress.org/log/bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
+      "page":"https://wordpress.org/plugins/bootstrap-shortcodes/",
+      "feed":"https://plugins.trac.wordpress.org/log/bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
    },
    {  
       "name":"Bootstrap Switch",
@@ -291,8 +286,8 @@
    },
    {  
       "name":"Easy Bootstrap Shortcodes",
-      "page":"http://wordpress.org/plugins/easy-bootstrap-shortcodes/",
-      "feed":"http://plugins.trac.wordpress.org/log/easy-bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
+      "page":"https://wordpress.org/plugins/easy-bootstrap-shortcodes/",
+      "feed":"https://plugins.trac.wordpress.org/log/easy-bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
    },
    {  
       "name":"eFlexis.Dialog",
@@ -591,8 +586,8 @@
    },
    {  
       "name":"WP Bootstrap Menu",
-      "page":"http://wordpress.org/plugins/wp-bootstrap-navmenu/",
-      "feed":"http://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss"
+      "page":"https://wordpress.org/plugins/wp-bootstrap-navmenu/",
+      "feed":"https://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss"
    },
    {  
       "name":"WP-Bootstrap",
