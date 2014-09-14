@@ -5,7 +5,7 @@ A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to on
 
 ## How to participate?
 
-If you got a Bootstrap project you'd like to add to our stream, please follow these steps:
+If you got a Bootstrap project hosted on [GitHub](https://github.com), [Bitbucket](https://bitbucket.org/) or [Wordpress Plugins](https://wordpress.org/plugins/), you can add it to our feed following these steps:
 
 1. Fork the repository for the feed
 2. Add your project to `feeds.js`, alphabetize by project name
