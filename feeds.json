@@ -371,7 +371,7 @@
    },
    {  
       "name":"Git Bootstrap",
-      "page":"https://github.com/gitbootstrap",
+      "page":"https://github.com/gitbootstrap/feeds",
       "feed":"https://github.com/gitbootstrap/feeds/commits/master.atom"
    },
    {  
