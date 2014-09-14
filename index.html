@@ -12,6 +12,7 @@
   <link href="css/style.css" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
 </head>
 
 <body>
@@ -53,7 +54,6 @@
     <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
 
   </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
     <script type="text/javascript">var feedJson=angular.module("feedJson",[]);feedJson.controller("FeedCtrl",function($scope,$http){$http.get("feeds.json").then(function(res){$scope.feeds=res.data})});</script>
   </body>
   </html>
