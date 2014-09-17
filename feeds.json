@@ -100,11 +100,6 @@
       "feed":"https://github.com/idleberg/Bootstrap-Listr/commits/master.atom"
    },
    {  
-      "name":"Bootstrap Listr 2.0",
-      "page":"https://github.com/idleberg/Bootstrap-Listr/tree/2.0-dev",
-      "feed":"https://github.com/idleberg/Bootstrap-Listr/commits/2.0-dev.atom"
-   },
-   {  
       "name":"Bootstrap Magic",
       "page":"https://github.com/pikock/bootstrap-magic",
       "feed":"https://github.com/pikock/bootstrap-magic/commits/master.atom"
