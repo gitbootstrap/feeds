@@ -16,7 +16,7 @@
   <script type="text/javascript">var feedJson=angular.module("feedJson",[]);feedJson.controller("FeedCtrl",function($scope,$http){$http.get("feeds.json").then(function(res){$scope.feeds=res.data})});</script>
 </head>
 
-<body class="test" style="opacity:0">
+<body>
   <div class="container" ng-controller="FeedCtrl">
     <h1>Git Bootstrap</h1>
     <h3>What is it?</h3>
@@ -26,7 +26,7 @@
     <p>
       If you got a Bootstrap project hosted on <a href="https://github.com" target="_blank">GitHub</a>, <a href="https://bitbucket.org" target="_blank">Bitbucket</a> or <a href="https://wordpress.org/plugins/" target="_blank">Wordpress Plugins</a>, you can add it to our feed following these steps:
       <ol>
-        <li>Fork the <a href="https://github.com/gitbootstrap/feeds">repository</a> for the feed</li>
+        <li>Fork the <a href="https://github.com/gitbootstrap/repository">repository</a> for the feed</li>
         <li>Add your project to <code>feeds.json</code>, alphabetize by project name</li>
         <li>Commit your changes and submit a pull request</li>
       </ol>
@@ -44,8 +44,8 @@
         </thead>
         <tbody >
           <tr ng-repeat="feed in feeds">
-            <td class="text-left"><a href="{{feed.page}}">{{feed.name}}</a></td>
-            <td class="text-right"><a href="{{feed.feed}}"><i class="fa fa-rss"></a></td>
+            <td class="text-left"><a href="{{feed.website}}">{{feed.name}}</a></td>
+            <td class="text-right"><a href="{{feed.commits}}"><i class="fa fa-rss"></a></td>
           </tr>
         </tbody>
       </table>
@@ -53,29 +53,7 @@
 
     <h3>License</h3>
     <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
-
   </div>
-  <script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function(){
-    function fadeIn(el) {
-      el.style.opacity = 0;
-
-      var last = +new Date();
-      var tick = function() {
-        el.style.opacity = +el.style.opacity + (new Date() - last) / 1000;
-        last = +new Date();
-
-        if (+el.style.opacity < 1) {
-          (window.requestAnimationFrame && requestAnimationFrame(tick)) || setTimeout(tick, 0)
-        }
-      };
-
-      tick();
-    }
-    var el = document.querySelector('body');
-    fadeIn(el);
-
-});
-  </script>
+  
 </body>
 </html>

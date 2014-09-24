@@ -1,7 +1,7 @@
-# Git Bootstrap [![Build Status](https://secure.travis-ci.org/gitbootstrap/feeds.svg)](http://travis-ci.org/gitbootstrap/feeds)
+# Git Bootstrap [![Build Status](https://secure.travis-ci.org/gitbootstrap/repository.svg)](http://travis-ci.org/gitbootstrap/repository) [![devDependencies](https://david-dm.org/gitbootstrap/repository/dev-status.svg?style=flat)](https://david-dm.org/gitbootstrap/repository#info=devDependencies)
 
 ## What is it?
-A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) framework. You will find a detailed list of [included projects](http://gitbootstrap.github.io/feeds/index.html#projects) on the website.
+A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) framework. You will find a detailed list of [included projects](http://gitbootstrap.github.io/repository/index.html#projects) on the website.
 
 ## How to participate?
 
@@ -15,7 +15,7 @@ All entries will be reviewed by a human being.
 
 ## Included Projects
 
-[Click here](http://gitbootstrap.github.io/feeds/index.html#projects)
+[Click here](http://gitbootstrap.github.io/repository/index.html#projects)
 
 ## License
 
