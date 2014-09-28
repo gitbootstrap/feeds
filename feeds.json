@@ -317,9 +317,9 @@
   },
   {  
     "name":"django-admin-bootstrapped",
-    "website":"https://github.com/riccardo-forina/django-admin-bootstrapped",
-    "commits":"https://github.com/riccardo-forina/django-admin-bootstrapped/commits/master.atom",
-    "releases":"https://github.com/riccardo-forina/django-admin-bootstrapped/releases.atom"
+    "website":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped",
+    "commits":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/commits/master.atom",
+    "releases":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/releases.atom"
   },
   {  
     "name":"django-bootstrap3",
@@ -526,9 +526,9 @@
   },
   {  
     "name":"Laravel 4 Bootstrap Starter Site",
-    "website":"https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site",
-    "commits":"https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site/commits/master.atom",
-    "releases":"https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site/releases.atom"
+    "website":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site",
+    "commits":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site/commits/master.atom",
+    "releases":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site/releases.atom"
   },
   {  
     "name":"laravel-ajax-example",
