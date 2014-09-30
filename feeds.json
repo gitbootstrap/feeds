@@ -567,6 +567,12 @@
     "releases":"https://github.com/TalksLab/metro-bootstrap/releases.atom"
   },
   {  
+    "name":"Material Design for Bootstrap",
+    "website":"https://github.com/FezVrasta/bootstrap-material-design",
+    "commits":"https://github.com/FezVrasta/bootstrap-material-design/commits/master.atom",
+    "releases":"https://github.com/FezVrasta/bootstrap-material-design/releases.atom"
+  },
+  {  
     "name":"MopaBootstrapBundle",
     "website":"https://github.com/phiamo/MopaBootstrapBundle",
     "commits":"https://github.com/phiamo/MopaBootstrapBundle/commits/master.atom",
