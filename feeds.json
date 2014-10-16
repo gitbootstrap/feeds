@@ -495,6 +495,12 @@
     "releases":"https://github.com/gyfchong/iron-bootstrap/releases.atom"
   },
   {  
+    "name":"Jasny Bootstrap",
+    "website":"https://github.com/jasny/bootstrap",
+    "commits":"https://github.com/jasny/bootstrap/commits/master.atom",
+    "releases":"https://github.com/jasny/bootstrap/releases.atom"
+  },
+  {  
     "name":"Jekyll-Bootstrap",
     "website":"https://github.com/plusjade/jekyll-bootstrap",
     "commits":"https://github.com/plusjade/jekyll-bootstrap/commits/master.atom",
