@@ -32,22 +32,20 @@
     </p>
 
     <h3 id="projects">Included Projects</h3>
-    <div class="jumbotron">
-      <table class="table">
-        <thead>
-          <tr>
-            <th class="text-left">Project</th>
-            <th class="text-right">Feed</th>
-          </tr>
-        </thead>
-        <tbody >
-          <tr ng-repeat="feed in feeds">
-            <td class="text-left"><a href="{{feed.website}}">{{feed.name}}</a></td>
-            <td class="text-right"><a href="{{feed.commits}}"><i class="fa fa-rss"></a></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th class="text-left">Project</th>
+          <th class="text-right">Feed</th>
+        </tr>
+      </thead>
+      <tbody >
+        <tr ng-repeat="feed in feeds">
+          <td class="text-left"><a href="{{feed.website}}">{{feed.name}}</a></td>
+          <td class="text-right"><a href="{{feed.commits}}"><i class="fa fa-rss"></a></td>
+        </tr>
+      </tbody>
+    </table>
 
     <h3>License</h3>
     <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
