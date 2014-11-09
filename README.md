@@ -1,4 +1,4 @@
-# Git Bootstrap [![Build Status](https://secure.travis-ci.org/gitbootstrap/repository.svg)](http://travis-ci.org/gitbootstrap/repository) [![devDependencies](https://david-dm.org/gitbootstrap/repository/dev-status.svg?style=flat)](https://david-dm.org/gitbootstrap/repository#info=devDependencies)
+# Git Bootstrap [![Build Status](https://secure.travis-ci.org/gitbootstrap/repository.svg)](http://travis-ci.org/gitbootstrap/repository) [![devDependencies](https://david-dm.org/gitbootstrap/repository/dev-status.svg)](https://david-dm.org/gitbootstrap/repository#info=devDependencies)
 
 ## What is it?
 A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) framework. You will find a detailed list of [included projects](http://gitbootstrap.github.io/repository/index.html#projects) on the website.
