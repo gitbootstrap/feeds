@@ -2,747 +2,997 @@
   {  
     "name":"AlloyUI",
     "website":"https://github.com/liferay/alloy-ui",
-    "commits":"https://github.com/liferay/alloy-ui/commits/master.atom",
-    "releases":"https://github.com/liferay/alloy-ui/releases.atom"
+    "channel": {
+      "commits":"https://github.com/liferay/alloy-ui/commits/master.atom",
+      "releases":"https://github.com/liferay/alloy-ui/releases.atom"
+    }
   },
   {  
     "name":"Android Bootstrap",
     "website":"https://github.com/donnfelker/android-bootstrap",
-    "commits":"https://github.com/donnfelker/android-bootstrap/commits/master.atom",
-    "releases":"https://github.com/donnfelker/android-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/donnfelker/android-bootstrap/commits/master.atom",
+      "releases":"https://github.com/donnfelker/android-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"AngularStrap",
     "website":"https://github.com/mgcrea/angular-strap",
-    "commits":"https://github.com/mgcrea/angular-strap/commits/master.atom",
-    "releases":"https://github.com/mgcrea/angular-strap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mgcrea/angular-strap/commits/master.atom",
+      "releases":"https://github.com/mgcrea/angular-strap/releases.atom"
+    }
   },
   {  
     "name":"Application Wizard for Bootstrap",
     "website":"https://github.com/amoffat/bootstrap-application-wizard",
-    "commits":"https://github.com/amoffat/bootstrap-application-wizard/commits/master.atom",
-    "releases":"https://github.com/amoffat/bootstrap-application-wizard/releases.atom"
+    "channel": {
+      "commits":"https://github.com/amoffat/bootstrap-application-wizard/commits/master.atom",
+      "releases":"https://github.com/amoffat/bootstrap-application-wizard/releases.atom"
+    }
   },
   {  
     "name":"Bootbox.js",
     "website":"https://github.com/makeusabrew/bootbox",
-    "commits":"https://github.com/makeusabrew/bootbox/commits/master.atom",
-    "releases":"https://github.com/makeusabrew/bootbox/releases.atom"
+    "channel": {
+      "commits":"https://github.com/makeusabrew/bootbox/commits/master.atom",
+      "releases":"https://github.com/makeusabrew/bootbox/releases.atom"
+    }
   },
   {  
     "name":"Bootplus",
     "website":"https://github.com/aozora/bootplus",
-    "commits":"https://github.com/aozora/bootplus/commits/master.atom",
-    "releases":"https://github.com/aozora/bootplus/releases.atom"
+    "channel": {
+      "commits":"https://github.com/aozora/bootplus/commits/master.atom",
+      "releases":"https://github.com/aozora/bootplus/releases.atom"
+    }
   },
   {  
     "name":"Bootply",
     "website":"https://github.com/iatek/bootply",
-    "commits":"https://github.com/iatek/bootply/commits/master.atom",
-    "releases":"https://github.com/iatek/bootply/releases.atom"
+    "channel": {
+      "commits":"https://github.com/iatek/bootply/commits/master.atom",
+      "releases":"https://github.com/iatek/bootply/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap::Sass::Rails",
     "website":"https://github.com/yabawock/bootstrap-sass-rails",
-    "commits":"https://github.com/yabawock/bootstrap-sass-rails/commits/develop.atom",
-    "releases":"https://github.com/yabawock/bootstrap-sass-rails/releases.atom"
+    "channel": {
+      "commits":"https://github.com/yabawock/bootstrap-sass-rails/commits/develop.atom",
+      "releases":"https://github.com/yabawock/bootstrap-sass-rails/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap - AngularJS directives",
     "website":"https://github.com/angular-ui/bootstrap",
-    "commits":"https://github.com/angular-ui/bootstrap/commits/master.atom",
-    "releases":"https://github.com/angular-ui/bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/angular-ui/bootstrap/commits/master.atom",
+      "releases":"https://github.com/angular-ui/bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Admin for WordPress",
     "website":"https://github.com/aristath/bootstrap-admin",
-    "commits":"https://github.com/aristath/bootstrap-admin/commits/master.atom",
-    "releases":"https://github.com/aristath/bootstrap-admin/releases.atom"
+    "channel": {
+      "commits":"https://github.com/aristath/bootstrap-admin/commits/master.atom",
+      "releases":"https://github.com/aristath/bootstrap-admin/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Admin Theme",
     "website":"https://github.com/VinceG/Bootstrap-Admin-Theme",
-    "commits":"https://github.com/VinceG/Bootstrap-Admin-Theme/commits/master.atom",
-    "releases":"https://github.com/VinceG/Bootstrap-Admin-Theme/releases.atom"
+    "channel": {
+      "commits":"https://github.com/VinceG/Bootstrap-Admin-Theme/commits/master.atom",
+      "releases":"https://github.com/VinceG/Bootstrap-Admin-Theme/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap for Ember",
     "website":"https://github.com/ember-addons/bootstrap-for-ember",
-    "commits":"https://github.com/ember-addons/bootstrap-for-ember/commits/master.atom",
-    "releases":"https://github.com/ember-addons/bootstrap-for-ember/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ember-addons/bootstrap-for-ember/commits/master.atom",
+      "releases":"https://github.com/ember-addons/bootstrap-for-ember/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap for Sass",
     "website":"https://github.com/twbs/bootstrap-sass",
-    "commits":"https://github.com/twbs/bootstrap-sass/commits/master.atom",
-    "releases":"https://github.com/twbs/bootstrap-sass/releases.atom"
+    "channel": {
+      "commits":"https://github.com/twbs/bootstrap-sass/commits/master.atom",
+      "releases":"https://github.com/twbs/bootstrap-sass/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Form Builder",
     "website":"https://github.com/minikomi/Bootstrap-Form-Builder",
-    "commits":"https://github.com/minikomi/Bootstrap-Form-Builder/commits/gh-pages.atom",
-    "releases":"https://github.com/minikomi/Bootstrap-Form-Builder/releases.atom"
+    "channel": {
+      "commits":"https://github.com/minikomi/Bootstrap-Form-Builder/commits/gh-pages.atom",
+      "releases":"https://github.com/minikomi/Bootstrap-Form-Builder/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Glyphicons",
     "website":"https://github.com/marcoceppi/bootstrap-glyphicons",
-    "commits":"https://github.com/marcoceppi/bootstrap-glyphicons/commits/master.atom",
-    "releases":"https://github.com/marcoceppi/bootstrap-glyphicons/releases.atom"
+    "channel": {
+      "commits":"https://github.com/marcoceppi/bootstrap-glyphicons/commits/master.atom",
+      "releases":"https://github.com/marcoceppi/bootstrap-glyphicons/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Image Gallery",
     "website":"https://github.com/blueimp/Bootstrap-Image-Gallery",
-    "commits":"https://github.com/blueimp/Bootstrap-Image-Gallery/commits/master.atom",
-    "releases":"https://github.com/blueimp/Bootstrap-Image-Gallery/releases.atom"
+    "channel": {
+      "commits":"https://github.com/blueimp/Bootstrap-Image-Gallery/commits/master.atom",
+      "releases":"https://github.com/blueimp/Bootstrap-Image-Gallery/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Jade",
     "website":"https://bitbucket.org/Tumbo/bootstrap-jade",
-    "commits":"https://bitbucket.org/Tumbo/bootstrap-jade/rss"
-  },
+    "channel": {
+      "commits":"https://bitbucket.org/Tumbo/bootstrap-jade/rss"
+    },
+    }
   {  
     "name":"Bootstrap jQuery Mobile Theme",
     "website":"https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme",
-    "commits":"https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme/commits/master.atom",
-    "releases":"https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme/releases.atom"
+    "channel": {
+      "commits":"https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme/commits/master.atom",
+      "releases":"https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Lightbox",
     "website":"https://github.com/jbutz/bootstrap-lightbox",
-    "commits":"https://github.com/jbutz/bootstrap-lightbox/commits/master.atom",
-    "releases":"https://github.com/jbutz/bootstrap-lightbox/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jbutz/bootstrap-lightbox/commits/master.atom",
+      "releases":"https://github.com/jbutz/bootstrap-lightbox/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Listr",
     "website":"https://github.com/idleberg/Bootstrap-Listr",
-    "commits":"https://github.com/idleberg/Bootstrap-Listr/commits/master.atom",
-    "releases":"https://github.com/idleberg/Bootstrap-Listr/releases.atom"
+    "channel": {
+      "commits":"https://github.com/idleberg/Bootstrap-Listr/commits/master.atom",
+      "releases":"https://github.com/idleberg/Bootstrap-Listr/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Magic",
     "website":"https://github.com/pikock/bootstrap-magic",
-    "commits":"https://github.com/pikock/bootstrap-magic/commits/master.atom",
-    "releases":"https://github.com/pikock/bootstrap-magic/releases.atom"
+    "channel": {
+      "commits":"https://github.com/pikock/bootstrap-magic/commits/master.atom",
+      "releases":"https://github.com/pikock/bootstrap-magic/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Modal",
     "website":"https://github.com/jschr/bootstrap-modal",
-    "commits":"https://github.com/jschr/bootstrap-modal/commits/master.atom",
-    "releases":"https://github.com/jschr/bootstrap-modal/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jschr/bootstrap-modal/commits/master.atom",
+      "releases":"https://github.com/jschr/bootstrap-modal/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Multiselect",
     "website":"https://github.com/davidstutz/bootstrap-multiselect",
-    "commits":"https://github.com/davidstutz/bootstrap-multiselect/commits/master.atom",
-    "releases":"https://github.com/davidstutz/bootstrap-multiselect/releases.atom"
+    "channel": {
+      "commits":"https://github.com/davidstutz/bootstrap-multiselect/commits/master.atom",
+      "releases":"https://github.com/davidstutz/bootstrap-multiselect/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Shortcodes",
     "website":"https://wordpress.org/plugins/bootstrap-shortcodes/",
-    "commits":"https://plugins.trac.wordpress.org/log/bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
-  },
+    "channel": {
+      "commits":"https://plugins.trac.wordpress.org/log/bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
+    },
+    }
   {  
     "name":"Bootstrap Switch",
     "website":"https://github.com/nostalgiaz/bootstrap-switch",
-    "commits":"https://github.com/nostalgiaz/bootstrap-switch/commits/master.atom",
-    "releases":"https://github.com/nostalgiaz/bootstrap-switch/releases.atom"
+    "channel": {
+      "commits":"https://github.com/nostalgiaz/bootstrap-switch/commits/master.atom",
+      "releases":"https://github.com/nostalgiaz/bootstrap-switch/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Theme for Pinax",
     "website":"https://github.com/pinax/pinax-theme-bootstrap",
-    "commits":"https://github.com/pinax/pinax-theme-bootstrap/commits/master.atom",
-    "releases":"https://github.com/pinax/pinax-theme-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/pinax/pinax-theme-bootstrap/commits/master.atom",
+      "releases":"https://github.com/pinax/pinax-theme-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Tour",
     "website":"https://github.com/sorich87/bootstrap-tour",
-    "commits":"https://github.com/sorich87/bootstrap-tour/commits/master.atom",
-    "releases":"https://github.com/sorich87/bootstrap-tour/releases.atom"
+    "channel": {
+      "commits":"https://github.com/sorich87/bootstrap-tour/commits/master.atom",
+      "releases":"https://github.com/sorich87/bootstrap-tour/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Tumblr Theme",
     "website":"https://github.com/mikejarema/bootstrap-tumblr-theme",
-    "commits":"https://github.com/mikejarema/bootstrap-tumblr-theme/commits/master.atom",
-    "releases":"https://github.com/mikejarema/bootstrap-tumblr-theme/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mikejarema/bootstrap-tumblr-theme/commits/master.atom",
+      "releases":"https://github.com/mikejarema/bootstrap-tumblr-theme/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Wysihtml5 for Rails",
     "website":"https://github.com/Nerian/bootstrap-wysihtml5-rails",
-    "commits":"https://github.com/Nerian/bootstrap-wysihtml5-rails/commits/master.atom",
-    "releases":"https://github.com/Nerian/bootstrap-wysihtml5-rails/releases.atom"
+    "channel": {
+      "commits":"https://github.com/Nerian/bootstrap-wysihtml5-rails/commits/master.atom",
+      "releases":"https://github.com/Nerian/bootstrap-wysihtml5-rails/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap Zero",
     "website":"https://github.com/iatek/bootstrap-zero",
-    "commits":"https://github.com/iatek/bootstrap-zero/commits/master.atom",
-    "releases":"https://github.com/iatek/bootstrap-zero/releases.atom"
+    "channel": {
+      "commits":"https://github.com/iatek/bootstrap-zero/commits/master.atom",
+      "releases":"https://github.com/iatek/bootstrap-zero/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap",
     "website":"https://github.com/twbs/bootstrap",
-    "commits":"https://github.com/twbs/bootstrap/commits/master.atom",
-    "releases":"https://github.com/twbs/bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/twbs/bootstrap/commits/master.atom",
+      "releases":"https://github.com/twbs/bootstrap/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-3-upgrade",
     "website":"https://github.com/iatek/bootstrap-3-upgrade",
-    "commits":"https://github.com/iatek/bootstrap-3-upgrade/commits/master.atom",
-    "releases":"https://github.com/iatek/bootstrap-3-upgrade/releases.atom"
+    "channel": {
+      "commits":"https://github.com/iatek/bootstrap-3-upgrade/commits/master.atom",
+      "releases":"https://github.com/iatek/bootstrap-3-upgrade/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap-CMS",
     "website":"https://github.com/GrahamCampbell/Bootstrap-CMS",
-    "commits":"https://github.com/GrahamCampbell/Bootstrap-CMS/commits/master.atom",
-    "releases":"https://github.com/GrahamCampbell/Bootstrap-CMS/releases.atom"
+    "channel": {
+      "commits":"https://github.com/GrahamCampbell/Bootstrap-CMS/commits/master.atom",
+      "releases":"https://github.com/GrahamCampbell/Bootstrap-CMS/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-datepicker",
     "website":"https://github.com/eternicode/bootstrap-datepicker",
-    "commits":"https://github.com/eternicode/bootstrap-datepicker/commits/master.atom",
-    "releases":"https://github.com/eternicode/bootstrap-datepicker/releases.atom"
+    "channel": {
+      "commits":"https://github.com/eternicode/bootstrap-datepicker/commits/master.atom",
+      "releases":"https://github.com/eternicode/bootstrap-datepicker/releases.atom"
+    }
   },
   {  
     "name":"bootply-extras",
     "website":"https://github.com/iatek/bootply-extras",
-    "commits":"https://github.com/iatek/bootply-extras/commits/master.atom",
-    "releases":"https://github.com/iatek/bootply-extras/releases.atom"
+    "channel": {
+      "commits":"https://github.com/iatek/bootply-extras/commits/master.atom",
+      "releases":"https://github.com/iatek/bootply-extras/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-google-plus",
     "website":"https://github.com/iatek/bootstrap-google-plus",
-    "commits":"https://github.com/iatek/bootstrap-google-plus/commits/master.atom",
-    "releases":"https://github.com/iatek/bootstrap-google-plus/releases.atom"
+    "channel": {
+      "commits":"https://github.com/iatek/bootstrap-google-plus/commits/master.atom",
+      "releases":"https://github.com/iatek/bootstrap-google-plus/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-notify",
     "website":"https://github.com/goodybag/bootstrap-notify",
-    "commits":"https://github.com/goodybag/bootstrap-notify/commits/master.atom",
-    "releases":"https://github.com/goodybag/bootstrap-notify/releases.atom"
+    "channel": {
+      "commits":"https://github.com/goodybag/bootstrap-notify/commits/master.atom",
+      "releases":"https://github.com/goodybag/bootstrap-notify/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-progressbar",
     "website":"https://github.com/minddust/bootstrap-progressbar",
-    "commits":"https://github.com/minddust/bootstrap-progressbar/commits/master.atom",
-    "releases":"https://github.com/minddust/bootstrap-progressbar/releases.atom"
+    "channel": {
+      "commits":"https://github.com/minddust/bootstrap-progressbar/commits/master.atom",
+      "releases":"https://github.com/minddust/bootstrap-progressbar/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-sass-grunt",
     "website":"https://github.com/esteinborn/bootstrap-sass-grunt",
-    "commits":"https://github.com/esteinborn/bootstrap-sass-grunt/commits/master.atom",
-    "releases":"https://github.com/esteinborn/bootstrap-sass-grunt/releases.atom"
+    "channel": {
+      "commits":"https://github.com/esteinborn/bootstrap-sass-grunt/commits/master.atom",
+      "releases":"https://github.com/esteinborn/bootstrap-sass-grunt/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-select",
     "website":"https://github.com/silviomoreto/bootstrap-select",
-    "commits":"https://github.com/silviomoreto/bootstrap-select/commits/master.atom",
-    "releases":"https://github.com/silviomoreto/bootstrap-select/releases.atom"
+    "channel": {
+      "commits":"https://github.com/silviomoreto/bootstrap-select/commits/master.atom",
+      "releases":"https://github.com/silviomoreto/bootstrap-select/releases.atom"
+    }
   },
   {  
     "name":"Bootstrap-wysihtml5",
     "website":"https://github.com/jhollingworth/bootstrap-wysihtml5",
-    "commits":"https://github.com/jhollingworth/bootstrap-wysihtml5/commits/master.atom",
-    "releases":"https://github.com/jhollingworth/bootstrap-wysihtml5/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jhollingworth/bootstrap-wysihtml5/commits/master.atom",
+      "releases":"https://github.com/jhollingworth/bootstrap-wysihtml5/releases.atom"
+    }
   },
   {  
     "name":"bootstrap-wysiwyg",
     "website":"https://github.com/mindmup/bootstrap-wysiwyg",
-    "commits":"https://github.com/mindmup/bootstrap-wysiwyg/commits/master.atom",
-    "releases":"https://github.com/mindmup/bootstrap-wysiwyg/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mindmup/bootstrap-wysiwyg/commits/master.atom",
+      "releases":"https://github.com/mindmup/bootstrap-wysiwyg/releases.atom"
+    }
   },
   {  
     "name":"bootstrap_dashboard",
     "website":"https://github.com/jhw/bootstrap_dashboard",
-    "commits":"https://github.com/jhw/bootstrap_dashboard/commits/master.atom",
-    "releases":"https://github.com/jhw/bootstrap_dashboard/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jhw/bootstrap_dashboard/commits/master.atom",
+      "releases":"https://github.com/jhw/bootstrap_dashboard/releases.atom"
+    }
   },
   {  
     "name":"BootstrapCDN WordPress Plugin",
     "website":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin",
-    "commits":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin/commits/master.atom",
-    "releases":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin/releases.atom"
+    "channel": {
+      "commits":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin/commits/master.atom",
+      "releases":"https://github.com/MaxCDN/bootstrapcdn-wordpress-plugin/releases.atom"
+    }
   },
   {  
     "name":"BootstrapCSSEditor",
     "website":"https://github.com/TupleGeo/BootstrapCSSEditor",
-    "commits":"https://github.com/TupleGeo/BootstrapCSSEditor/commits/master.atom",
-    "releases":"https://github.com/TupleGeo/BootstrapCSSEditor/releases.atom"
+    "channel": {
+      "commits":"https://github.com/TupleGeo/BootstrapCSSEditor/commits/master.atom",
+      "releases":"https://github.com/TupleGeo/BootstrapCSSEditor/releases.atom"
+    }
   },
   {  
     "name":"BootstrapFormHelpers",
     "website":"https://github.com/vlamanna/BootstrapFormHelpers",
-    "commits":"https://github.com/vlamanna/BootstrapFormHelpers/commits/master.atom",
-    "releases":"https://github.com/vlamanna/BootstrapFormHelpers/releases.atom"
+    "channel": {
+      "commits":"https://github.com/vlamanna/BootstrapFormHelpers/commits/master.atom",
+      "releases":"https://github.com/vlamanna/BootstrapFormHelpers/releases.atom"
+    }
   },
   {  
     "name":"BootstrapWP",
     "website":"https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress",
-    "commits":"https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress/commits/master.atom",
-    "releases":"https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress/releases.atom"
+    "channel": {
+      "commits":"https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress/commits/master.atom",
+      "releases":"https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress/releases.atom"
+    }
   },
   {  
     "name":"Bootstro.js",
     "website":"https://github.com/clu3/bootstro.js",
-    "commits":"https://github.com/clu3/bootstro.js/commits/master.atom",
-    "releases":"https://github.com/clu3/bootstro.js/releases.atom"
+    "channel": {
+      "commits":"https://github.com/clu3/bootstro.js/commits/master.atom",
+      "releases":"https://github.com/clu3/bootstro.js/releases.atom"
+    }
   },
   {  
     "name":"Bootswatch",
     "website":"https://github.com/thomaspark/bootswatch",
-    "commits":"https://github.com/thomaspark/bootswatch/commits/gh-pages.atom",
-    "releases":"https://github.com/thomaspark/bootswatch/releases.atom"
+    "channel": {
+      "commits":"https://github.com/thomaspark/bootswatch/commits/gh-pages.atom",
+      "releases":"https://github.com/thomaspark/bootswatch/releases.atom"
+    }
   },
   {  
     "name":"CodeIgniter Bootstrap",
     "website":"https://github.com/sjlu/CodeIgniter-Bootstrap",
-    "commits":"https://github.com/sjlu/CodeIgniter-Bootstrap/commits/master.atom",
-    "releases":"https://github.com/sjlu/CodeIgniter-Bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/sjlu/CodeIgniter-Bootstrap/commits/master.atom",
+      "releases":"https://github.com/sjlu/CodeIgniter-Bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Date Range Picker for Twitter Bootstrap",
     "website":"https://github.com/dangrossman/bootstrap-daterangepicker",
-    "commits":"https://github.com/dangrossman/bootstrap-daterangepicker/commits/master.atom",
-    "releases":"https://github.com/dangrossman/bootstrap-daterangepicker/releases.atom"
+    "channel": {
+      "commits":"https://github.com/dangrossman/bootstrap-daterangepicker/commits/master.atom",
+      "releases":"https://github.com/dangrossman/bootstrap-daterangepicker/releases.atom"
+    }
   },
   {  
     "name":"dir-listing-bootstrap",
     "website":"https://github.com/ael-code/dir-listing-bootstrap",
-    "commits":"https://github.com/ael-code/dir-listing-bootstrap/commits/master.atom",
-    "releases":"https://github.com/ael-code/dir-listing-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ael-code/dir-listing-bootstrap/commits/master.atom",
+      "releases":"https://github.com/ael-code/dir-listing-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Django Bootstrap Toolkit",
     "website":"https://github.com/dyve/django-bootstrap-toolkit",
-    "commits":"https://github.com/dyve/django-bootstrap-toolkit/commits/master.atom",
-    "releases":"https://github.com/dyve/django-bootstrap-toolkit/releases.atom"
+    "channel": {
+      "commits":"https://github.com/dyve/django-bootstrap-toolkit/commits/master.atom",
+      "releases":"https://github.com/dyve/django-bootstrap-toolkit/releases.atom"
+    }
   },
   {  
     "name":"django-admin-bootstrapped",
     "website":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped",
-    "commits":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/commits/master.atom",
-    "releases":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/releases.atom"
+    "channel": {
+      "commits":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/commits/master.atom",
+      "releases":"https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/releases.atom"
+    }
   },
   {  
     "name":"django-bootstrap3",
     "website":"https://github.com/dyve/django-bootstrap3",
-    "commits":"https://github.com/dyve/django-bootstrap3/commits/master.atom",
-    "releases":"https://github.com/dyve/django-bootstrap3/releases.atom"
+    "channel": {
+      "commits":"https://github.com/dyve/django-bootstrap3/commits/master.atom",
+      "releases":"https://github.com/dyve/django-bootstrap3/releases.atom"
+    }
   },
   {  
     "name":"DocStrap",
     "website":"https://github.com/terryweiss/docstrap",
-    "commits":"https://github.com/terryweiss/docstrap/commits/master.atom",
-    "releases":"https://github.com/terryweiss/docstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/terryweiss/docstrap/commits/master.atom",
+      "releases":"https://github.com/terryweiss/docstrap/releases.atom"
+    }
   },
   {  
     "name":"Easy Bootstrap Shortcodes",
     "website":"https://wordpress.org/plugins/easy-bootstrap-shortcodes/",
-    "commits":"https://plugins.trac.wordpress.org/log/easy-bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
-  },
+    "channel": {
+      "commits":"https://plugins.trac.wordpress.org/log/easy-bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
+    },
+    }
   {  
     "name":"eFlexis.Dialog",
     "website":"https://github.com/emerbrito/eFlexis.Dialog",
-    "commits":"https://github.com/emerbrito/eFlexis.Dialog/commits/master.atom",
-    "releases":"https://github.com/emerbrito/eFlexis.Dialog/releases.atom"
+    "channel": {
+      "commits":"https://github.com/emerbrito/eFlexis.Dialog/commits/master.atom",
+      "releases":"https://github.com/emerbrito/eFlexis.Dialog/releases.atom"
+    }
   },
   {  
     "name":"Ember Bootstrap",
     "website":"https://github.com/emberjs-addons/ember-bootstrap",
-    "commits":"https://github.com/emberjs-addons/ember-bootstrap/commits/master.atom",
-    "releases":"https://github.com/emberjs-addons/ember-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/emberjs-addons/ember-bootstrap/commits/master.atom",
+      "releases":"https://github.com/emberjs-addons/ember-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Employee Directory",
     "website":"https://github.com/ccoenraets/directory-backbone-bootstrap",
-    "commits":"https://github.com/ccoenraets/directory-backbone-bootstrap/commits/master.atom",
-    "releases":"https://github.com/ccoenraets/directory-backbone-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ccoenraets/directory-backbone-bootstrap/commits/master.atom",
+      "releases":"https://github.com/ccoenraets/directory-backbone-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Flat UI Free",
     "website":"https://github.com/designmodo/Flat-UI",
-    "commits":"https://github.com/designmodo/Flat-UI/commits/master.atom",
-    "releases":"https://github.com/designmodo/Flat-UI/releases.atom"
+    "channel": {
+      "commits":"https://github.com/designmodo/Flat-UI/commits/master.atom",
+      "releases":"https://github.com/designmodo/Flat-UI/releases.atom"
+    }
   },
   {  
     "name":"Flatstrap for Bootstrap 3",
     "website":"https://github.com/littlesparkvt/Flatstrap-for-Bootstrap-3",
-    "commits":"https://github.com/littlesparkvt/Flatstrap-for-Bootstrap-3/commits/master.atom",
-    "releases":"https://github.com/littlesparkvt/Flatstrap-for-Bootstrap-3/releases.atom"
+    "channel": {
+      "commits":"https://github.com/littlesparkvt/Flatstrap-for-Bootstrap-3/commits/master.atom",
+      "releases":"https://github.com/littlesparkvt/Flatstrap-for-Bootstrap-3/releases.atom"
+    }
   },
   {  
     "name":"FlatStrap",
     "website":"https://github.com/littlesparkvt/flatstrap",
-    "commits":"https://github.com/littlesparkvt/flatstrap/commits/master.atom",
-    "releases":"https://github.com/littlesparkvt/flatstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/littlesparkvt/flatstrap/commits/master.atom",
+      "releases":"https://github.com/littlesparkvt/flatstrap/releases.atom"
+    }
   },
   {  
     "name":"Font Awesome",
     "website":"https://github.com/FortAwesome/Font-Awesome",
-    "commits":"https://github.com/FortAwesome/Font-Awesome/commits/master.atom",
-    "releases":"https://github.com/FortAwesome/Font-Awesome/releases.atom"
+    "channel": {
+      "commits":"https://github.com/FortAwesome/Font-Awesome/commits/master.atom",
+      "releases":"https://github.com/FortAwesome/Font-Awesome/releases.atom"
+    }
   },
   {  
     "name":"Formtastic Bootstrap",
     "website":"https://github.com/mjbellantoni/formtastic-bootstrap",
-    "commits":"https://github.com/mjbellantoni/formtastic-bootstrap/commits/master.atom",
-    "releases":"https://github.com/mjbellantoni/formtastic-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mjbellantoni/formtastic-bootstrap/commits/master.atom",
+      "releases":"https://github.com/mjbellantoni/formtastic-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Fuel UX",
     "website":"https://github.com/ExactTarget/fuelux",
-    "commits":"https://github.com/ExactTarget/fuelux/commits/master.atom",
-    "releases":"https://github.com/ExactTarget/fuelux/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ExactTarget/fuelux/commits/master.atom",
+      "releases":"https://github.com/ExactTarget/fuelux/releases.atom"
+    }
   },
   {  
     "name":"generator-bootstrap",
     "website":"https://github.com/yeoman/generator-bootstrap",
-    "commits":"https://github.com/yeoman/generator-bootstrap/commits/master.atom",
-    "releases":"https://github.com/yeoman/generator-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/yeoman/generator-bootstrap/commits/master.atom",
+      "releases":"https://github.com/yeoman/generator-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"generator-angular-bootstrap",
     "website":"https://github.com/mgcrea/generator-angular-bootstrap",
-    "commits":"https://github.com/mgcrea/generator-angular-bootstrap/commits/master.atom",
-    "releases":"https://github.com/mgcrea/generator-angular-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mgcrea/generator-angular-bootstrap/commits/master.atom",
+      "releases":"https://github.com/mgcrea/generator-angular-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"generator-bootstrap-less",
     "website":"https://github.com/Thomas-Lebeau/generator-bootstrap-less",
-    "commits":"https://github.com/Thomas-Lebeau/generator-bootstrap-less/commits/master.atom",
-    "releases":"https://github.com/Thomas-Lebeau/generator-bootstrap-less/releases.atom"
+    "channel": {
+      "commits":"https://github.com/Thomas-Lebeau/generator-bootstrap-less/commits/master.atom",
+      "releases":"https://github.com/Thomas-Lebeau/generator-bootstrap-less/releases.atom"
+    }
   },
   {  
     "name":"generator-gulp-bootstrap",
     "website":"https://github.com/niallobrien/generator-gulp-bootstrap",
-    "commits":"https://github.com/niallobrien/generator-gulp-bootstrap/commits/master.atom",
-    "releases":"https://github.com/niallobrien/generator-gulp-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/niallobrien/generator-gulp-bootstrap/commits/master.atom",
+      "releases":"https://github.com/niallobrien/generator-gulp-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Geo for Bootstrap",
     "website":"https://github.com/divshot/geo-bootstrap",
-    "commits":"https://github.com/divshot/geo-bootstrap/commits/master.atom",
-    "releases":"https://github.com/divshot/geo-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/divshot/geo-bootstrap/commits/master.atom",
+      "releases":"https://github.com/divshot/geo-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"ghost-theme-bootstrap",
     "website":"https://github.com/fueledbydreams/ghost-theme-bootstrap",
-    "commits":"https://github.com/fueledbydreams/ghost-theme-bootstrap/commits/master.atom",
-    "releases":"https://github.com/fueledbydreams/ghost-theme-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/fueledbydreams/ghost-theme-bootstrap/commits/master.atom",
+      "releases":"https://github.com/fueledbydreams/ghost-theme-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"GhostStrap",
     "website":"https://github.com/mojeda/GhostStrap",
-    "commits":"https://github.com/mojeda/GhostStrap/commits/master.atom",
-    "releases":"https://github.com/mojeda/GhostStrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mojeda/GhostStrap/commits/master.atom",
+      "releases":"https://github.com/mojeda/GhostStrap/releases.atom"
+    }
   },
   {  
     "name":"grunt-compile-bootstrap",
     "website":"https://github.com/proximitybbdo/grunt-compile-bootstrap",
-    "commits":"https://github.com/proximitybbdo/grunt-compile-bootstrap/commits/master.atom",
-    "releases":"https://github.com/proximitybbdo/grunt-compile-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/proximitybbdo/grunt-compile-bootstrap/commits/master.atom",
+      "releases":"https://github.com/proximitybbdo/grunt-compile-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"grunt-customize-bootstrap",
     "website":"https://github.com/ianwremmel/grunt-customize-bootstrap",
-    "commits":"https://github.com/ianwremmel/grunt-customize-bootstrap/commits/master.atom",
-    "releases":"https://github.com/ianwremmel/grunt-customize-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ianwremmel/grunt-customize-bootstrap/commits/master.atom",
+      "releases":"https://github.com/ianwremmel/grunt-customize-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"grunt-express-bootstrap",
     "website":"https://github.com/wolfeidau/grunt-express-bootstrap",
-    "commits":"https://github.com/wolfeidau/grunt-express-bootstrap/commits/master.atom",
-    "releases":"https://github.com/wolfeidau/grunt-express-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/wolfeidau/grunt-express-bootstrap/commits/master.atom",
+      "releases":"https://github.com/wolfeidau/grunt-express-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"grunt-include-bootstrap",
     "website":"https://github.com/davewasmer/grunt-include-bootstrap",
-    "commits":"https://github.com/davewasmer/grunt-include-bootstrap/commits/master.atom",
-    "releases":"https://github.com/davewasmer/grunt-include-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/davewasmer/grunt-include-bootstrap/commits/master.atom",
+      "releases":"https://github.com/davewasmer/grunt-include-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"GWT-Bootstrap",
     "website":"https://github.com/gwtbootstrap/gwt-bootstrap",
-    "commits":"https://github.com/gwtbootstrap/gwt-bootstrap/commits/master.atom",
-    "releases":"https://github.com/gwtbootstrap/gwt-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/gwtbootstrap/gwt-bootstrap/commits/master.atom",
+      "releases":"https://github.com/gwtbootstrap/gwt-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Gulp Bootstrap",
     "website":"https://github.com/mattboldt/Gulp-Bootstrap",
-    "commits":"https://github.com/mattboldt/Gulp-Bootstrap/commits/master.atom",
-    "releases":"https://github.com/mattboldt/Gulp-Bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/mattboldt/Gulp-Bootstrap/commits/master.atom",
+      "releases":"https://github.com/mattboldt/Gulp-Bootstrap/releases.atom"
+    }
   },
   {  
     "name":"gulp-ng-base",
     "website":"https://github.com/lynndylanhurley/gulp-ng-base",
-    "commits":"https://github.com/lynndylanhurley/gulp-ng-base/commits/master.atom",
-    "releases":"https://github.com/lynndylanhurley/gulp-ng-base/releases.atom"
+    "channel": {
+      "commits":"https://github.com/lynndylanhurley/gulp-ng-base/commits/master.atom",
+      "releases":"https://github.com/lynndylanhurley/gulp-ng-base/releases.atom"
+    }
   },
   {  
     "name":"gulpstrap",
     "website":"https://github.com/carlosl/gulpstrap",
-    "commits":"https://github.com/carlosl/gulpstrap/commits/master.atom",
-    "releases":"https://github.com/carlosl/gulpstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/carlosl/gulpstrap/commits/master.atom",
+      "releases":"https://github.com/carlosl/gulpstrap/releases.atom"
+    }
   },
   {  
     "name":"Iron Bootstrap",
     "website":"https://github.com/gyfchong/iron-bootstrap",
-    "commits":"https://github.com/gyfchong/iron-bootstrap/commits/master.atom",
-    "releases":"https://github.com/gyfchong/iron-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/gyfchong/iron-bootstrap/commits/master.atom",
+      "releases":"https://github.com/gyfchong/iron-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Jasny Bootstrap",
     "website":"https://github.com/jasny/bootstrap",
-    "commits":"https://github.com/jasny/bootstrap/commits/master.atom",
-    "releases":"https://github.com/jasny/bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jasny/bootstrap/commits/master.atom",
+      "releases":"https://github.com/jasny/bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Jekyll-Bootstrap",
     "website":"https://github.com/plusjade/jekyll-bootstrap",
-    "commits":"https://github.com/plusjade/jekyll-bootstrap/commits/master.atom",
-    "releases":"https://github.com/plusjade/jekyll-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/plusjade/jekyll-bootstrap/commits/master.atom",
+      "releases":"https://github.com/plusjade/jekyll-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"jqBootstapValidation",
     "website":"https://github.com/ReactiveRaven/jqBootstrapValidation",
-    "commits":"https://github.com/ReactiveRaven/jqBootstrapValidation/commits/master.atom",
-    "releases":"https://github.com/ReactiveRaven/jqBootstrapValidation/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ReactiveRaven/jqBootstrapValidation/commits/master.atom",
+      "releases":"https://github.com/ReactiveRaven/jqBootstrapValidation/releases.atom"
+    }
   },
   {  
     "name":"jQuery UI Bootstrap",
     "website":"https://github.com/addyosmani/jquery-ui-bootstrap",
-    "commits":"https://github.com/addyosmani/jquery-ui-bootstrap/commits/gh-pages.atom",
-    "releases":"https://github.com/addyosmani/jquery-ui-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/addyosmani/jquery-ui-bootstrap/commits/gh-pages.atom",
+      "releases":"https://github.com/addyosmani/jquery-ui-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Kickstrap",
     "website":"https://github.com/ajkochanowicz/Kickstrap",
-    "commits":"https://github.com/ajkochanowicz/Kickstrap/commits/master.atom",
-    "releases":"https://github.com/ajkochanowicz/Kickstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ajkochanowicz/Kickstrap/commits/master.atom",
+      "releases":"https://github.com/ajkochanowicz/Kickstrap/releases.atom"
+    }
   },
   {  
     "name":"Ladda for Bootstrap 3",
     "website":"https://github.com/msurguy/ladda-bootstrap",
-    "commits":"https://github.com/msurguy/ladda-bootstrap/commits/master.atom",
-    "releases":"https://github.com/msurguy/ladda-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/msurguy/ladda-bootstrap/commits/master.atom",
+      "releases":"https://github.com/msurguy/ladda-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Laravel 4 Bootstrap Starter Site",
     "website":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site",
-    "commits":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site/commits/master.atom",
-    "releases":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site/releases.atom"
+    "channel": {
+      "commits":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site/commits/master.atom",
+      "releases":"https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site/releases.atom"
+    }
   },
   {  
     "name":"laravel-ajax-example",
     "website":"https://github.com/msurguy/laravel-ajax-example",
-    "commits":"https://github.com/msurguy/laravel-ajax-example/commits/master.atom",
-    "releases":"https://github.com/msurguy/laravel-ajax-example/releases.atom"
+    "channel": {
+      "commits":"https://github.com/msurguy/laravel-ajax-example/commits/master.atom",
+      "releases":"https://github.com/msurguy/laravel-ajax-example/releases.atom"
+    }
   },
   {  
     "name":"laravel-bootstrap",
     "website":"https://github.com/davzie/laravel-bootstrap",
-    "commits":"https://github.com/davzie/laravel-bootstrap/commits/master.atom",
-    "releases":"https://github.com/davzie/laravel-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/davzie/laravel-bootstrap/commits/master.atom",
+      "releases":"https://github.com/davzie/laravel-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"laravel-bootstrap-bower-gulp",
     "website":"https://github.com/jhauraw/laravel-bootstrap-bower-gulp",
-    "commits":"https://github.com/jhauraw/laravel-bootstrap-bower-gulp/commits/master.atom",
-    "releases":"https://github.com/jhauraw/laravel-bootstrap-bower-gulp/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jhauraw/laravel-bootstrap-bower-gulp/commits/master.atom",
+      "releases":"https://github.com/jhauraw/laravel-bootstrap-bower-gulp/releases.atom"
+    }
   },
   {  
     "name":"Less Rails Bootstrap",
     "website":"https://github.com/metaskills/less-rails-bootstrap",
-    "commits":"https://github.com/metaskills/less-rails-bootstrap/commits/master.atom",
-    "releases":"https://github.com/metaskills/less-rails-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/metaskills/less-rails-bootstrap/commits/master.atom",
+      "releases":"https://github.com/metaskills/less-rails-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"M8tro Bootstrap Theme",
     "website":"https://github.com/idleberg/m8tro-bootstrap",
-    "commits":"https://github.com/idleberg/m8tro-bootstrap/commits/master.atom",
-    "releases":"https://github.com/idleberg/m8tro-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/idleberg/m8tro-bootstrap/commits/master.atom",
+      "releases":"https://github.com/idleberg/m8tro-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"metro-bootstrap",
     "website":"https://github.com/TalksLab/metro-bootstrap",
-    "commits":"https://github.com/TalksLab/metro-bootstrap/commits/master.atom",
-    "releases":"https://github.com/TalksLab/metro-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/TalksLab/metro-bootstrap/commits/master.atom",
+      "releases":"https://github.com/TalksLab/metro-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Material Design for Bootstrap",
     "website":"https://github.com/FezVrasta/bootstrap-material-design",
-    "commits":"https://github.com/FezVrasta/bootstrap-material-design/commits/master.atom",
-    "releases":"https://github.com/FezVrasta/bootstrap-material-design/releases.atom"
+    "channel": {
+      "commits":"https://github.com/FezVrasta/bootstrap-material-design/commits/master.atom",
+      "releases":"https://github.com/FezVrasta/bootstrap-material-design/releases.atom"
+    }
   },
   {  
     "name":"MopaBootstrapBundle",
     "website":"https://github.com/phiamo/MopaBootstrapBundle",
-    "commits":"https://github.com/phiamo/MopaBootstrapBundle/commits/master.atom",
-    "releases":"https://github.com/phiamo/MopaBootstrapBundle/releases.atom"
+    "channel": {
+      "commits":"https://github.com/phiamo/MopaBootstrapBundle/commits/master.atom",
+      "releases":"https://github.com/phiamo/MopaBootstrapBundle/releases.atom"
+    }
   },
   {  
     "name":"Node Bootstrap",
     "website":"https://github.com/inadarei/nodebootstrap",
-    "commits":"https://github.com/inadarei/nodebootstrap/commits/master.atom",
-    "releases":"https://github.com/inadarei/nodebootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/inadarei/nodebootstrap/commits/master.atom",
+      "releases":"https://github.com/inadarei/nodebootstrap/releases.atom"
+    }
   },
   {  
     "name":"Roots Starter Theme",
     "website":"https://github.com/roots/roots",
-    "commits":"https://github.com/roots/roots/commits/master.atom",
-    "releases":"https://github.com/roots/roots/releases.atom"
+    "channel": {
+      "commits":"https://github.com/roots/roots/commits/master.atom",
+      "releases":"https://github.com/roots/roots/releases.atom"
+    }
   },
   {  
     "name":"Sass Bootstrap",
     "website":"https://github.com/jlong/sass-bootstrap",
-    "commits":"https://github.com/jlong/sass-bootstrap/commits/master.atom",
-    "releases":"https://github.com/jlong/sass-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jlong/sass-bootstrap/commits/master.atom",
+      "releases":"https://github.com/jlong/sass-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Shoestrap",
     "website":"https://github.com/shoestrap/shoestrap",
-    "commits":"https://github.com/shoestrap/shoestrap/commits/master.atom",
-    "releases":"https://github.com/shoestrap/shoestrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/shoestrap/shoestrap/commits/master.atom",
+      "releases":"https://github.com/shoestrap/shoestrap/releases.atom"
+    }
   },
   {  
     "name":"Sinatra Bootstrap",
     "website":"https://github.com/adamstac/sinatra-bootstrap/",
-    "commits":"https://github.com/adamstac/sinatra-bootstrap/commits/master.atom",
-    "releases":"https://github.com/adamstac/sinatra-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/adamstac/sinatra-bootstrap/commits/master.atom",
+      "releases":"https://github.com/adamstac/sinatra-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Sphinx Bootstrap Theme",
     "website":"https://github.com/ryan-roemer/sphinx-bootstrap-theme",
-    "commits":"https://github.com/ryan-roemer/sphinx-bootstrap-theme/commits/master.atom",
-    "releases":"https://github.com/ryan-roemer/sphinx-bootstrap-theme/releases.atom"
+    "channel": {
+      "commits":"https://github.com/ryan-roemer/sphinx-bootstrap-theme/commits/master.atom",
+      "releases":"https://github.com/ryan-roemer/sphinx-bootstrap-theme/releases.atom"
+    }
   },
   {  
     "name":"Start Bootstrap",
     "website":"https://github.com/IronSummitMedia/startbootstrap",
-    "commits":"https://github.com/IronSummitMedia/startbootstrap/commits/master.atom",
-    "releases":"https://github.com/IronSummitMedia/startbootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/IronSummitMedia/startbootstrap/commits/master.atom",
+      "releases":"https://github.com/IronSummitMedia/startbootstrap/releases.atom"
+    }
   },
   {  
     "name":"Strapdown.js Markdown Preview",
     "website":"https://github.com/michfield/sublime-strapdown-preview",
-    "commits":"https://github.com/michfield/sublime-strapdown-preview/commits/master.atom",
-    "releases":"https://github.com/michfield/sublime-strapdown-preview/releases.atom"
+    "channel": {
+      "commits":"https://github.com/michfield/sublime-strapdown-preview/commits/master.atom",
+      "releases":"https://github.com/michfield/sublime-strapdown-preview/releases.atom"
+    }
   },
   {  
     "name":"Strapdown.js",
     "website":"https://github.com/arturadib/strapdown",
-    "commits":"https://github.com/arturadib/strapdown/commits/gh-pages.atom",
-    "releases":"https://github.com/arturadib/strapdown/releases.atom"
+    "channel": {
+      "commits":"https://github.com/arturadib/strapdown/commits/gh-pages.atom",
+      "releases":"https://github.com/arturadib/strapdown/releases.atom"
+    }
   },
   {  
     "name":"Sublime Text 2 Snippets for Laravel Bootstrapper",
     "website":"https://github.com/patricktalmadge/Bootstrapper_snippets",
-    "commits":"https://github.com/patricktalmadge/Bootstrapper_snippets/commits/master.atom",
-    "releases":"https://github.com/patricktalmadge/Bootstrapper_snippets/releases.atom"
+    "channel": {
+      "commits":"https://github.com/patricktalmadge/Bootstrapper_snippets/commits/master.atom",
+      "releases":"https://github.com/patricktalmadge/Bootstrapper_snippets/releases.atom"
+    }
   },
   {  
     "name":"Sublime Text Twitter Bootstrap Snippets",
     "website":"https://github.com/devtellect/sublime-twitter-bootstrap-snippets",
-    "commits":"https://github.com/devtellect/sublime-twitter-bootstrap-snippets/commits/master.atom",
-    "releases":"https://github.com/devtellect/sublime-twitter-bootstrap-snippets/releases.atom"
+    "channel": {
+      "commits":"https://github.com/devtellect/sublime-twitter-bootstrap-snippets/commits/master.atom",
+      "releases":"https://github.com/devtellect/sublime-twitter-bootstrap-snippets/releases.atom"
+    }
   },
   {  
     "name":"t3bootstrap",
     "website":"https://github.com/medialis/t3bootstrap-project",
-    "commits":"https://github.com/medialis/t3bootstrap-project/commits/master.atom",
-    "releases":"https://github.com/medialis/t3bootstrap-project/releases.atom"
+    "channel": {
+      "commits":"https://github.com/medialis/t3bootstrap-project/commits/master.atom",
+      "releases":"https://github.com/medialis/t3bootstrap-project/releases.atom"
+    }
   },
   {  
     "name":"Timepicker for Twitter Bootstrap",
     "website":"https://github.com/jdewit/bootstrap-timepicker",
-    "commits":"https://github.com/jdewit/bootstrap-timepicker/commits/gh-pages.atom",
-    "releases":"https://github.com/jdewit/bootstrap-timepicker/releases.atom"
+    "channel": {
+      "commits":"https://github.com/jdewit/bootstrap-timepicker/commits/gh-pages.atom",
+      "releases":"https://github.com/jdewit/bootstrap-timepicker/releases.atom"
+    }
   },
   {  
     "name":"TODC Bootstrap",
     "website":"https://github.com/todc/todc-bootstrap",
-    "commits":"https://github.com/todc/todc-bootstrap/commits/master.atom",
-    "releases":"https://github.com/todc/todc-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/todc/todc-bootstrap/commits/master.atom",
+      "releases":"https://github.com/todc/todc-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Twitter Bootstrap 3 Sublime Plugin",
     "website":"https://github.com/JasonMortonNZ/bs3-sublime-plugin",
-    "commits":"https://github.com/JasonMortonNZ/bs3-sublime-plugin/commits/master.atom",
-    "releases":"https://github.com/JasonMortonNZ/bs3-sublime-plugin/releases.atom"
+    "channel": {
+      "commits":"https://github.com/JasonMortonNZ/bs3-sublime-plugin/commits/master.atom",
+      "releases":"https://github.com/JasonMortonNZ/bs3-sublime-plugin/releases.atom"
+    }
   },
   {  
     "name":"Twitter Bootstrap ClassNames Completion",
     "website":"https://github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames",
-    "commits":"https://github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/commits/master.atom",
-    "releases":"https://github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/releases.atom"
+    "channel": {
+      "commits":"https://github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/commits/master.atom",
+      "releases":"https://github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/releases.atom"
+    }
   },
   {  
     "name":"Twitter Bootstrap for Compass",
     "website":"https://github.com/vwall/compass-twitter-bootstrap",
-    "commits":"https://github.com/vwall/compass-twitter-bootstrap/commits/master.atom",
-    "releases":"https://github.com/vwall/compass-twitter-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/vwall/compass-twitter-bootstrap/commits/master.atom",
+      "releases":"https://github.com/vwall/compass-twitter-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"Twitter Bootstrap for Rails",
     "website":"https://github.com/anjlab/bootstrap-rails",
-    "commits":"https://github.com/anjlab/bootstrap-rails/commits/master.atom",
-    "releases":"https://github.com/anjlab/bootstrap-rails/releases.atom"
+    "channel": {
+      "commits":"https://github.com/anjlab/bootstrap-rails/commits/master.atom",
+      "releases":"https://github.com/anjlab/bootstrap-rails/releases.atom"
+    }
   },
   {  
     "name":"Twitter Bootstrap for Rails",
     "website":"https://github.com/seyhunak/twitter-bootstrap-rails",
-    "commits":"https://github.com/seyhunak/twitter-bootstrap-rails/commits/master.atom",
-    "releases":"https://github.com/seyhunak/twitter-bootstrap-rails/releases.atom"
+    "channel": {
+      "commits":"https://github.com/seyhunak/twitter-bootstrap-rails/commits/master.atom",
+      "releases":"https://github.com/seyhunak/twitter-bootstrap-rails/releases.atom"
+    }
   },
   {  
     "name":"Twitter Bootstrap Hover Dropdown Plugin",
     "website":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown",
-    "commits":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/commits/master.atom",
-    "releases":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/releases.atom"
+    "channel": {
+      "commits":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/commits/master.atom",
+      "releases":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/releases.atom"
+    }
   },
   {  
     "name":"WP Bootstrap Menu",
     "website":"https://wordpress.org/plugins/wp-bootstrap-navmenu/",
-    "commits":"https://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss"
-  },
+    "channel": {
+      "commits":"https://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss"
+    },
+    }
   {  
     "name":"WP-Bootstrap",
     "website":"https://github.com/320press",
-    "commits":"https://github.com/320press/wordpress-bootstrap/commits/master.atom",
-    "releases":"https://github.com/320press/wordpress-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/320press/wordpress-bootstrap/commits/master.atom",
+      "releases":"https://github.com/320press/wordpress-bootstrap/releases.atom"
+    }
   },
   {  
     "name":"wp-bootstrap-navwalker",
     "website":"https://github.com/twittem/wp-bootstrap-navwalker",
-    "commits":"https://github.com/twittem/wp-bootstrap-navwalker/commits/master.atom",
-    "releases":"https://github.com/twittem/wp-bootstrap-navwalker/releases.atom"
+    "channel": {
+      "commits":"https://github.com/twittem/wp-bootstrap-navwalker/commits/master.atom",
+      "releases":"https://github.com/twittem/wp-bootstrap-navwalker/releases.atom"
+    }
   },
   {  
     "name":"X-editable",
     "website":"https://github.com/vitalets/x-editable",
-    "commits":"https://github.com/vitalets/x-editable/commits/master.atom",
-    "releases":"https://github.com/vitalets/x-editable/releases.atom"
+    "channel": {
+      "commits":"https://github.com/vitalets/x-editable/commits/master.atom",
+      "releases":"https://github.com/vitalets/x-editable/releases.atom"
+    }
   },
   {  
     "name":"Yeoman-AngularJS-Bootstrap-jQuery",
     "website":"https://github.com/achudars/Yeoman-AngularJS-Bootstrap-jQuery",
-    "commits":"https://github.com/achudars/Yeoman-AngularJS-Bootstrap-jQuery/commits/master.atom",
-    "releases":"https://github.com/achudars/Yeoman-AngularJS-Bootstrap-jQuery/releases.atom"
+    "channel": {
+      "commits":"https://github.com/achudars/Yeoman-AngularJS-Bootstrap-jQuery/commits/master.atom",
+      "releases":"https://github.com/achudars/Yeoman-AngularJS-Bootstrap-jQuery/releases.atom"
+    }
   },
   {  
     "name":"yeoman-angularjs-bootstrap-mongodb",
     "website":"https://github.com/erictherobot/yeoman-angularjs-bootstrap-mongodb",
-    "commits":"https://github.com/erictherobot/yeoman-angularjs-bootstrap-mongodb/commits/master.atom",
-    "releases":"https://github.com/erictherobot/yeoman-angularjs-bootstrap-mongodb/releases.atom"
+    "channel": {
+      "commits":"https://github.com/erictherobot/yeoman-angularjs-bootstrap-mongodb/commits/master.atom",
+      "releases":"https://github.com/erictherobot/yeoman-angularjs-bootstrap-mongodb/releases.atom"
+    }
   },
   {  
     "name":"yeoman-angularjs-bootstrap-less",
     "website":"https://github.com/abelaska/yeoman-angularjs-bootstrap-less",
-    "commits":"https://github.com/abelaska/yeoman-angularjs-bootstrap-less/commits/master.atom/commits/master.atom",
-    "releases":"https://github.com/abelaska/yeoman-angularjs-bootstrap-less/commits/master.atom/releases.atom"
+    "channel": {
+      "commits":"https://github.com/abelaska/yeoman-angularjs-bootstrap-less/commits/master.atom/commits/master.atom",
+      "releases":"https://github.com/abelaska/yeoman-angularjs-bootstrap-less/commits/master.atom/releases.atom"
+    }
   },
   {  
     "name":"yeoman-bootstrap",
     "website":"https://github.com/vincentmac/yeoman-bootstrap",
-    "commits":"https://github.com/vincentmac/yeoman-bootstrap/commits/master.atom",
-    "releases":"https://github.com/vincentmac/yeoman-bootstrap/releases.atom"
+    "channel": {
+      "commits":"https://github.com/vincentmac/yeoman-bootstrap/commits/master.atom",
+      "releases":"https://github.com/vincentmac/yeoman-bootstrap/releases.atom"
+    }
   }
 ]

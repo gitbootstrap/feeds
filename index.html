@@ -31,7 +31,7 @@
       <tbody >
         <tr ng-repeat="feed in feeds">
           <td class="text-left"><a href="{{feed.website}}">{{feed.name}}</a></td>
-          <td class="text-right"><a href="{{feed.commits}}"><i class="fa fa-rss"></a></td>
+          <td class="text-right"><a href="{{feed.channel.commits}}"><i class="fa fa-rss"></a></td>
         </tr>
       </tbody>
     </table>
