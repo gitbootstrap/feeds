@@ -132,8 +132,8 @@
     "website":"https://bitbucket.org/Tumbo/bootstrap-jade",
     "channel": {
       "commits":"https://bitbucket.org/Tumbo/bootstrap-jade/rss"
-    },
     }
+   },
   {  
     "name":"Bootstrap jQuery Mobile Theme",
     "website":"https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme",
@@ -187,8 +187,8 @@
     "website":"https://wordpress.org/plugins/bootstrap-shortcodes/",
     "channel": {
       "commits":"https://plugins.trac.wordpress.org/log/bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
-    },
     }
+  }, 
   {  
     "name":"Bootstrap Switch",
     "website":"https://github.com/nostalgiaz/bootstrap-switch",
@@ -450,8 +450,8 @@
     "website":"https://wordpress.org/plugins/easy-bootstrap-shortcodes/",
     "channel": {
       "commits":"https://plugins.trac.wordpress.org/log/easy-bootstrap-shortcodes?limit=100&mode=stop_on_copy&format=rss"
-    },
     }
+   },
   {  
     "name":"eFlexis.Dialog",
     "website":"https://github.com/emerbrito/eFlexis.Dialog",
@@ -937,8 +937,8 @@
     "website":"https://wordpress.org/plugins/wp-bootstrap-navmenu/",
     "channel": {
       "commits":"https://plugins.trac.wordpress.org/log/wp-bootstrap-navmenu?limit=100&mode=stop_on_copy&format=rss"
-    },
     }
+   },
   {  
     "name":"WP-Bootstrap",
     "website":"https://github.com/320press",
