@@ -435,12 +435,6 @@
     "releases":"https://github.com/mojeda/GhostStrap/releases.atom"
   },
   {  
-    "name":"Git Bootstrap",
-    "website":"https://github.com/gitbootstrap/feeds",
-    "commits":"https://github.com/gitbootstrap/feeds/commits/master.atom",
-    "releases":"https://github.com/gitbootstrap/feeds/releases.atom"
-  },
-  {  
     "name":"grunt-compile-bootstrap",
     "website":"https://github.com/proximitybbdo/grunt-compile-bootstrap",
     "commits":"https://github.com/proximitybbdo/grunt-compile-bootstrap/commits/master.atom",
