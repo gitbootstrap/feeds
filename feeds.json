@@ -933,6 +933,14 @@
     }
   },
   {  
+    "name":"Wicket Bootstrap",
+    "website":"https://github.com/l0rdn1kk0n/wicket-bootstrap",
+    "channel": {
+      "commits":"https://github.com/l0rdn1kk0n/wicket-bootstrap/commits/master.atom",
+      "releases":"https://github.com/l0rdn1kk0n/wicket-bootstrap/releases.atom"
+    }
+   },
+  {  
     "name":"WP Bootstrap Menu",
     "website":"https://wordpress.org/plugins/wp-bootstrap-navmenu/",
     "channel": {
