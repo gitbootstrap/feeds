@@ -884,6 +884,14 @@
       "releases":"https://github.com/todc/todc-bootstrap/releases.atom"
     }
   },
+   {  
+    "name":"Tumblr Bootstrap",
+    "website":"https://github.com/xles/tumblr-bootstrap",
+    "channel": {
+      "commits":"https://github.com/xles/tumblr-bootstrap/commits/master.atom",
+      "releases":"https://github.com/xles/tumblr-bootstrap/commits/releases.atom"
+    }
+  },
   {  
     "name":"Twitter Bootstrap 3 Sublime Plugin",
     "website":"https://github.com/JasonMortonNZ/bs3-sublime-plugin",
