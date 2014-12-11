@@ -573,6 +573,14 @@
     }
   },
   {  
+    "name":"GhoStrap",
+    "website":"https://github.com/BiosElement/GhoStrap",
+    "channel": {
+      "commits":"https://github.com/BiosElement/GhoStrap/commits/master.atom",
+      "releases":"https://github.com/BiosElement/GhoStrap/releases.atom"
+    }
+  },
+  {  
     "name":"GhostStrap",
     "website":"https://github.com/mojeda/GhostStrap",
     "channel": {
