@@ -40,6 +40,14 @@
     }
   },
   {  
+    "name":"BForms",
+    "website":"https://github.com/vtfuture/BForms",
+    "channel": {
+      "commits":"https://github.com/vtfuture/BForms/commits/master.atom",
+      "releases":"https://github.com/vtfuture/BForms/releases.atom"
+    }
+  },
+  {  
     "name":"Bootbox.js",
     "website":"https://github.com/makeusabrew/bootbox",
     "channel": {
@@ -962,6 +970,14 @@
     "channel": {
       "commits":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/commits/master.atom",
       "releases":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/releases.atom"
+    }
+  },
+  {  
+    "name":"uvdom-bootstrap",
+    "website":"https://github.com/gcanti/uvdom-bootstrap",
+    "channel": {
+      "commits":"https://github.com/gcanti/uvdom-bootstrap/commits/master.atom",
+      "releases":"https://github.com/gcanti/uvdom-bootstrap/releases.atom"
     }
   },
   {  
