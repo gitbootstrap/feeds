@@ -24,6 +24,14 @@
     }
   },
   {  
+    "name":"Angular UI Bootstrap Date Time Picker",
+    "website":"https://github.com/zhaber/datetimepicker",
+    "channel": {
+      "commits":"https://github.com/zhaber/datetimepicker/commits/master.atom",
+      "releases":"https://github.com/zhaber/datetimepicker/releases.atom"
+    }
+  },
+  {  
     "name":"Application Wizard for Bootstrap",
     "website":"https://github.com/amoffat/bootstrap-application-wizard",
     "channel": {
