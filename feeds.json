@@ -877,6 +877,14 @@
     }
   },
   {  
+    "name":"Summernote",
+    "website":"https://github.com/summernote/summernote",
+    "channel": {
+      "commits":"https://github.com/summernote/summernote/commits/master.atom",
+      "releases":"https://github.com/summernote/summernote/releases.atom"
+    }
+  },
+  {  
     "name":"t3bootstrap",
     "website":"https://github.com/medialis/t3bootstrap-project",
     "channel": {
