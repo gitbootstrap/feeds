@@ -973,6 +973,14 @@
     }
   },
   {  
+    "name":"UnderStrap Wordpress Theme Framework",
+    "website":"https://github.com/holger1411/understrap",
+    "channel": {
+      "commits":"https://github.com/holger1411/understrap/commits/master.atom",
+      "releases":"https://github.com/holger1411/understrap/releases.atom"
+    }
+  },
+  {  
     "name":"uvdom-bootstrap",
     "website":"https://github.com/gcanti/uvdom-bootstrap",
     "channel": {
