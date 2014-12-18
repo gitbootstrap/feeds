@@ -406,6 +406,30 @@
     }
   },
   {  
+    "name":"Bootswatch for Drupal",
+    "website":"https://github.com/btopro/bootswatch_drupal",
+    "channel": {
+      "commits":"https://github.com/btopro/bootswatch_drupal/commits/gh-pages.atom",
+      "releases":"https://github.com/btopro/bootswatch_drupal/releases.atom"
+    }
+  },
+  {  
+    "name":"bootswatch-rails",
+    "website":"https://github.com/maxim/bootswatch-rails",
+    "channel": {
+      "commits":"https://github.com/maxim/bootswatch-rails/commits/gh-pages.atom",
+      "releases":"https://github.com/maxim/bootswatch-rails/releases.atom"
+    }
+  },
+  {  
+    "name":"bootswatch-scss",
+    "website":"https://github.com/log0ymxm/bootswatch-scss",
+    "channel": {
+      "commits":"https://github.com/log0ymxm/bootswatch-scss/commits/gh-pages.atom",
+      "releases":"https://github.com/log0ymxm/bootswatch-scss/releases.atom"
+    }
+  },
+  {  
     "name":"CodeIgniter Bootstrap",
     "website":"https://github.com/sjlu/CodeIgniter-Bootstrap",
     "channel": {
@@ -765,6 +789,14 @@
     }
   },
   {  
+    "name":"Less Rails Bootswatch",
+    "website":"https://github.com/takai/less-rails-bootswatch",
+    "channel": {
+      "commits":"https://github.com/takai/less-rails-bootswatch/commits/master.atom",
+      "releases":"https://github.com/takai/less-rails-bootswatch/releases.atom"
+    }
+  },
+  {  
     "name":"M8tro Bootstrap Theme",
     "website":"https://github.com/idleberg/m8tro-bootstrap",
     "channel": {
@@ -802,6 +834,22 @@
     "channel": {
       "commits":"https://github.com/inadarei/nodebootstrap/commits/master.atom",
       "releases":"https://github.com/inadarei/nodebootstrap/releases.atom"
+    }
+  },
+  {  
+    "name":"OwnCloud Bootswatch Themes",
+    "website":"https://github.com/rafaelgou/owncloud-bootswatch-themes",
+    "channel": {
+      "commits":"https://github.com/rafaelgou/owncloud-bootswatch-themes/commits/master.atom",
+      "releases":"https://github.com/rafaelgou/owncloud-bootswatch-themes/releases.atom"
+    }
+  },
+  {  
+    "name":"Radix Bootswatch",
+    "website":"https://github.com/arshad/radix-bootswatch",
+    "channel": {
+      "commits":"https://github.com/arshad/radix-bootswatch/commits/master.atom",
+      "releases":"https://github.com/arshad/radix-bootswatch/releases.atom"
     }
   },
   {  
@@ -970,6 +1018,14 @@
     "channel": {
       "commits":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/commits/master.atom",
       "releases":"https://github.com/CWSpear/twitter-bootstrap-hover-dropdown/releases.atom"
+    }
+  },
+  {  
+    "name":"Twitter Bootstrap Hover Dropdown Plugin",
+    "website":"twitter-bootswatch-rails",
+    "channel": {
+      "commits":"twitter-bootswatch-rails/commits/master.atom",
+      "releases":"twitter-bootswatch-rails/releases.atom"
     }
   },
   {  
