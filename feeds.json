@@ -18,7 +18,7 @@
   {  
     "name":"AngularStrap",
     "website":"https://github.com/mgcrea/angular-strap",
-    "channel": {c
+    "channel": {
       "commits":"https://github.com/mgcrea/angular-strap/commits/master.atom",
       "releases":"https://github.com/mgcrea/angular-strap/releases.atom"
     }
@@ -640,6 +640,7 @@
     "name":"grunt-customize-bootstrap",
     "website":"https://github.com/ianwremmel/grunt-customize-bootstrap",
     "channel": {
+      "commits": null,
       "releases":"https://github.com/ianwremmel/grunt-customize-bootstrap/releases.atom"
     }
   },
