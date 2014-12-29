@@ -685,6 +685,14 @@
     }
   },
   {  
+    "name":"gulpfile-customize-bootstrap",
+    "website":"https://github.com/idleberg/gulpfile-customize-bootstrap",
+    "channel": {
+      "commits":"https://github.com/idleberg/gulpfile-customize-bootstrap/commits/master.atom",
+      "releases":"https://github.com/idleberg/gulpfile-customize-bootstrap/releases.atom"
+    }
+  },
+  {  
     "name":"gulpstrap",
     "website":"https://github.com/carlosl/gulpstrap",
     "channel": {
