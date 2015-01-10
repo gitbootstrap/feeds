@@ -72,6 +72,14 @@
     }
   },
   {  
+    "name":"BOOTSTRA.386",
+    "website":"https://github.com/kristopolous/BOOTSTRA.386",
+    "channel": {
+      "commits":"https://github.com/kristopolous/BOOTSTRA.386/commits/develop.atom",
+      "releases":"https://github.com/kristopolous/BOOTSTRA.386/releases.atom"
+    }
+  },
+  {  
     "name":"Bootstrap::Sass::Rails",
     "website":"https://github.com/yabawock/bootstrap-sass-rails",
     "channel": {
