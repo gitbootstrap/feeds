@@ -3,4 +3,4 @@ branches:
   only:
     - gh-pages
 node_js:
-  - "0.10"
+  - "0.12"
