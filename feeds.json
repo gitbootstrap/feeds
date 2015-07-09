@@ -178,7 +178,6 @@
     "name":"Bootstrap Listr",
     "website":"https://github.com/idleberg/Bootstrap-Listr",
     "channel": {
-      "commits":"https://github.com/idleberg/Bootstrap-Listr/commits/master.atom",
       "releases":"https://github.com/idleberg/Bootstrap-Listr/releases.atom"
     }
   },
