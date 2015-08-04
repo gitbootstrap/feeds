@@ -523,6 +523,14 @@
       "releases":"https://github.com/ccoenraets/directory-backbone-bootstrap/releases.atom"
     }
   },
+  {
+    "name": "Firebrick UI",
+    "website": "https://github.com/smasala/firebrick.ui",
+     "channel": {
+      "commits":"https://github.com/smasala/firebrick.ui/commits/master.atom",
+      "releases":"https://github.com/smasala/firebrick.ui/releases.atom"
+    }
+  },
   {  
     "name":"Flat UI Free",
     "website":"https://github.com/designmodo/Flat-UI",
