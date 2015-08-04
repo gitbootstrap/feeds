@@ -524,14 +524,6 @@
     }
   },
   {
-    "name": "Firebrick JS",
-    "website": "https://github.com/smasala/firebrick",
-     "channel": {
-      "commits":"https://github.com/smasala/firebrick/commits/master.atom",
-      "releases":"https://github.com/smasala/firebrick/releases.atom"
-    }
-  },
-  {
     "name": "Firebrick UI",
     "website": "https://github.com/smasala/firebrick.ui",
      "channel": {
