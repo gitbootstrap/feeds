@@ -823,7 +823,6 @@
     "name":"M8tro Bootstrap Theme",
     "website":"https://github.com/idleberg/m8tro-bootstrap",
     "channel": {
-      "commits":"https://github.com/idleberg/m8tro-bootstrap/commits/master.atom",
       "releases":"https://github.com/idleberg/m8tro-bootstrap/releases.atom"
     }
   },
