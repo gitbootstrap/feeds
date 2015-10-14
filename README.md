@@ -1,5 +1,6 @@
 # Git Bootstrap
 
+[![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Travis](https://img.shields.io/travis/gitbootstrap/repository.svg?style=flat-square)](https://travis-ci.org/gitbootstrap/repository)
 [![David](https://img.shields.io/david/dev/gitbootstrap/repository.svg?style=flat-square)](https://david-dm.org/gitbootstrap/repository#info=devDependencies)
 [![Gitter](https://img.shields.io/badge/chat-Gitter-ff69b4.svg?style=flat-square)](https://gitter.im/gitbootstrap)
