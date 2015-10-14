@@ -16,7 +16,7 @@ If you got a Bootstrap project hosted on [GitHub](https://github.com), [Bitbucke
 2. Add your project to `feeds.js`, alphabetize by project name
 3. Commit your changes and send a pull request
 
-All entries will be reviewed by a human being.
+All entries will be reviewed by a human being. Join the conversation on [Gitter](https://gitter.im/gitbootstrap)!
 
 ## Included Projects
 
