@@ -4,6 +4,6 @@ branches:
   only:
     - gh-pages
 node_js:
-  - "4.0.0"
+  - "4.2.1"
 notifications:
   email: false
