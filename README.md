@@ -2,6 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/gitbootstrap/repository.svg?style=flat-square)](https://travis-ci.org/gitbootstrap/repository)
 [![David](https://img.shields.io/david/dev/gitbootstrap/repository.svg?style=flat-square)](https://david-dm.org/gitbootstrap/repository#info=devDependencies)
+[![Gitter](https://img.shields.io/badge/chat-Gitter-ff69b4.svg?style=flat-square)](https://gitter.im/gitbootstrap)
 
 ## What is it?
 A [Twitter](http://twitter.com/gitbootstrap) feed triggered by Git commits to one of the many projects building upon the [Bootstrap](http://getbootstrap.com/) framework. You will find a detailed list of [included projects](http://gitbootstrap.github.io/repository/index.html#projects) on the website.
