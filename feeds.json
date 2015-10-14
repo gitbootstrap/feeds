@@ -965,7 +965,7 @@
   {
     "name":"Super Awesome Bootstrap",
     "website": "http://chrisbell08.github.io/Super_Awesome_Bootstrap/",
-    "chanel": {
+    "channel": {
       "commits":"https://github.com/chrisbell08/Super_Awesome_Bootstrap/commits/master.atom",
       "releases":"https://github.com/devtellect/Super_Awesome_Bootstrap/releases.atom"
     }
