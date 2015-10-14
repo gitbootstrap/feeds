@@ -962,6 +962,14 @@
       "releases":"https://github.com/summernote/summernote/releases.atom"
     }
   },
+  {
+    "name":"Super Awesome Bootstrap",
+    "website": "http://chrisbell08.github.io/Super_Awesome_Bootstrap/",
+    "channel": {
+      "commits":"https://github.com/chrisbell08/Super_Awesome_Bootstrap/commits/master.atom",
+      "releases":"https://github.com/devtellect/Super_Awesome_Bootstrap/releases.atom"
+    }
+  },
   {  
     "name":"t3bootstrap",
     "website":"https://github.com/medialis/t3bootstrap-project",
