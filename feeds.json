@@ -883,14 +883,6 @@
     }
   },
   {  
-    "name":"Roots Starter Theme",
-    "website":"https://github.com/roots/roots",
-    "channel": {
-      "commits":"https://github.com/roots/roots/commits/master.atom",
-      "releases":"https://github.com/roots/roots/releases.atom"
-    }
-  },
-  {  
     "name":"Sass Bootstrap",
     "website":"https://github.com/jlong/sass-bootstrap",
     "channel": {
