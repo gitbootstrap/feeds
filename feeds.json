@@ -564,14 +564,6 @@
     }
   },
   {  
-    "name":"Font Awesome",
-    "website":"https://github.com/FortAwesome/Font-Awesome",
-    "channel": {
-      "commits":"https://github.com/FortAwesome/Font-Awesome/commits/master.atom",
-      "releases":"https://github.com/FortAwesome/Font-Awesome/releases.atom"
-    }
-  },
-  {  
     "name":"Formtastic Bootstrap",
     "website":"https://github.com/mjbellantoni/formtastic-bootstrap",
     "channel": {
