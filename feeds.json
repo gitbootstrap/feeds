@@ -316,6 +316,14 @@
       "releases":"https://github.com/goodybag/bootstrap-notify/releases.atom"
     }
   },
+    {  
+    "name":"bootstrap-postcss",
+    "website":"https://github.com/OEvgeny/bootstrap-postcss",
+    "channel": {
+      "commits":"https://github.com/OEvgeny/bootstrap-postcss/commits/master.atom",
+      "releases":"https://github.com/OEvgeny/bootstrap-postcss/releases.atom"
+    }
+  },
   {  
     "name":"bootstrap-progressbar",
     "website":"https://github.com/minddust/bootstrap-progressbar",
