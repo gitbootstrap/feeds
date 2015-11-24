@@ -2,14 +2,14 @@
 <html lang="en" ng-app="feedJson">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="description" content="Git Bootstrap">
   <meta name="author" content="Jan T. Sott">
 
   <title>Git Bootstrap</title>
 
   <link rel="icon" href="favicon.png">
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+  <script async src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
   <link href="dist/css/style.min.css" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
 </head>
@@ -38,10 +38,10 @@
 
     <h3 id="participate">How to participate?</h3>
     <p>
-      If you got a Bootstrap project hosted on <a href="https://github.com" target="_blank">GitHub</a>, <a href="https://bitbucket.org" target="_blank">Bitbucket</a> or <a href="https://wordpress.org/plugins/" target="_blank">Wordpress Plugins</a>, you can add it to our feed following these steps:
+      If you got a Bootstrap project hosted on <a href="https://github.com" target="_blank">GitHub</a>,<a href="https://bitbucket.org" target="_blank">Bitbucket</a> or <a href="https://wordpress.org/plugins/" target="_blank">Wordpress Plugins</a>,you can add it to our feed following these steps:
       <ol>
         <li>Fork the <a href="https://github.com/gitbootstrap/repository">repository</a> for the feed</li>
-        <li>Add your project to <code>feeds.json</code>, alphabetize by project name</li>
+        <li>Add your project to <code>feeds.json</code>,alphabetize by project name</li>
         <li>Commit your changes and submit a pull request</li>
       </ol>
       All entries will be reviewed by a human being.
@@ -50,6 +50,6 @@
     <h3>License</h3>
     <p>This work is licensed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">Creative Commons</a> license.</p>
   </div>
-  <script type="text/javascript">var feedJson=angular.module("feedJson",[]);feedJson.controller("FeedCtrl",function(e,n){angular.element(document).ready(function(){n.get("feeds.json").then(function(n){e.feeds=n.data})})});</script>
+  <script type="text/javascript">var feedJson=angular.module("feedJson",[]);feedJson.controller("FeedCtrl",function($scope,$http){angular.element(document).ready(function(){$http.get("feeds.json").then(function(res){$scope.feeds=res.data }) });});</script>
 </body>
 </html>
