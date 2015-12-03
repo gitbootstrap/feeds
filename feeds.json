@@ -96,6 +96,13 @@
     }
   },
   {  
+    "name":"Bootstrap Shortcodes for WordPress",
+    "website":"https://github.com/filipstefansson/bootstrap-3-shortcodes",
+    "channel": {
+      "releases":"https://github.com/filipstefansson/bootstrap-3-shortcodes/releases/releases.atom"
+    }
+  },
+  {  
     "name":"Bootstrap Admin for WordPress",
     "website":"https://github.com/aristath/bootstrap-admin",
     "channel": {
