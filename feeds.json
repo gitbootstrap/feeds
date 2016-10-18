@@ -882,6 +882,14 @@
     }
   },
   {  
+    "name":"React Bootstrap",
+    "website":"https://github.com/react-bootstrap/react-bootstrap",
+    "channel": {
+      "commits":"https://github.com/react-bootstrap/react-bootstrap/commits/master.atom",
+      "releases":"https://github.com/react-bootstrap/react-bootstrap/releases.atom"
+    }
+  },
+  {  
     "name":"Sass Bootstrap",
     "website":"https://github.com/jlong/sass-bootstrap",
     "channel": {
