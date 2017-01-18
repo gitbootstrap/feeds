@@ -10,7 +10,6 @@
     "name":"Android Bootstrap",
     "website":"https://github.com/donnfelker/android-bootstrap",
     "channel": {
-      "commits":"https://github.com/donnfelker/android-bootstrap/commits/master.atom",
       "releases":"https://github.com/donnfelker/android-bootstrap/releases.atom"
     }
   },
@@ -60,7 +59,7 @@
     "name":"Bootply",
     "website":"https://github.com/iatek/bootply",
     "channel": {
-      "commits":"https://github.com/iatek/bootply/commits/master.atom",
+      "commits":"https://github.com/iatek/bootply/commits/master.atom"
     }
   },
   {
@@ -327,7 +326,7 @@
     "name":"Bootstrap-wysihtml5",
     "website":"https://github.com/jhollingworth/bootstrap-wysihtml5",
     "channel": {
-      "commits":"https://github.com/jhollingworth/bootstrap-wysihtml5/commits/master.atom",
+      "commits":"https://github.com/jhollingworth/bootstrap-wysihtml5/commits/master.atom"
     }
   },
   {
@@ -565,8 +564,7 @@
     "name":"GhostStrap",
     "website":"https://github.com/mojeda/GhostStrap",
     "channel": {
-      "commits":"https://github.com/mojeda/GhostStrap/commits/master.atom",
-      "releases":"https://github.com/mojeda/GhostStrap/releases.atom"
+      "commits":"https://github.com/mojeda/GhostStrap/commits/master.atom"
     }
   },
   {
