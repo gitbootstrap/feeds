@@ -252,6 +252,14 @@
     }
   },
   {  
+    "name":"Bootstrap Vue",
+    "website":"https://github.com/bootstrap-vue/bootstrap-vue",
+    "channel": {
+      "commits":"https://github.com/bootstrap-vue/bootstrap-vue/commits/master.atom",
+      "releases":"https://github.com/bootstrap-vue/bootstrap-vue/releases.atom"
+    }
+  },
+  {  
     "name":"Bootstrap Wysihtml5 for Rails",
     "website":"https://github.com/Nerian/bootstrap-wysihtml5-rails",
     "channel": {
