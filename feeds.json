@@ -345,6 +345,13 @@
     }
   },
   {
+    "name":"Bootstrap4-RTL",
+    "website":"https://github.com/mmdsharifi/Bootstrap4-RTL",
+    "channel": {
+      "releases":"https://github.com/mmdsharifi/Bootstrap4-RTL/releases.atom"
+    }
+  },
+  {
     "name":"BootstrapCSSEditor",
     "website":"https://github.com/TupleGeo/BootstrapCSSEditor",
     "channel": {
@@ -780,6 +787,34 @@
     }
   },
   {
+    "name":"react-bootstrap-daterangepicker",
+    "website":"https://github.com/skratchdot/react-bootstrap-daterangepicker",
+    "channel": {
+      "releases":"https://github.com/skratchdot/react-bootstrap-daterangepicker/releases.atom"
+    }
+  },
+  {
+    "name":"react-bootstrap-table",
+    "website":"https://github.com/AllenFang/react-bootstrap-table",
+    "channel": {
+      "releases":"https://github.com/AllenFang/react-bootstrap-table/releases.atom"
+    }
+  },
+  {
+    "name":"react-router-bootstrap",
+    "website":"https://github.com/react-bootstrap/react-router-bootstrap",
+    "channel": {
+      "releases":"https://github.com/react-bootstrap/react-router-bootstrap/releases.atom"
+    }
+  },
+  {
+    "name":"react-ui",
+    "website":"https://github.com/Lobos/react-ui",
+    "channel": {
+      "releases":"https://github.com/Lobos/react-ui/releases.atom"
+    }
+  },
+  {
     "name":"Sass Bootstrap",
     "website":"https://github.com/jlong/sass-bootstrap",
     "channel": {
@@ -924,6 +959,13 @@
     "website":"https://github.com/gcanti/uvdom-bootstrap",
     "channel": {
       "releases":"https://github.com/gcanti/uvdom-bootstrap/releases.atom"
+    }
+  },
+  {
+    "name":"vue-strap",
+    "website":"https://github.com/yuche/vue-strap",
+    "channel": {
+      "releases":"https://github.com/yuche/vue-strap/releases.atom"
     }
   },
   {
