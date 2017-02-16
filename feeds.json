@@ -960,6 +960,13 @@
     }
   },
   {
+    "name":"vue-bootstrap-modal",
+    "website":"https://github.com/Coffcer/vue-bootstrap-modal",
+    "channel": {
+      "commits":"https://github.com/Coffcer/vue-bootstrap-modal/commits/master.atom"
+    }
+  },
+  {
     "name":"vue-strap",
     "website":"https://github.com/yuche/vue-strap",
     "channel": {
