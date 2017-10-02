@@ -630,6 +630,13 @@
       "releases":"https://github.com/carlosl/gulpstrap/releases.atom"
     }
   },
+   {
+    "name":"If Bootstrap Breakpoint",
+    "website":"https://github.com/JacobLett/IfBreakpoint",
+    "channel": {
+      "commits":"https://github.com/JacobLett/IfBreakpoint/commits/master.atom"
+    }
+  },
   {
     "name":"Iron Bootstrap",
     "website":"https://github.com/gyfchong/iron-bootstrap",
