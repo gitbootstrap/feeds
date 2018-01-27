@@ -84,6 +84,13 @@
     }
   },
   {
+    "name":"Bootstrap Essentials",
+    "website":"http://bootstrapessentials.com",
+    "channel": {
+      "releases":"https://github.com/grvpanchal/bootstrap-essentials/releases.atom"
+    }
+  },
+  {
     "name":"Bootstrap Shortcodes for WordPress",
     "website":"https://github.com/filipstefansson/bootstrap-3-shortcodes",
     "channel": {
