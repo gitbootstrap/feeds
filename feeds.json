@@ -85,7 +85,7 @@
   },
   {
     "name":"Bootstrap Essentials",
-    "website":"https://bootstrapessentials.com",
+    "website":"http://bootstrapessentials.com",
     "channel": {
       "releases":"https://github.com/grvpanchal/bootstrap-essentials/releases.atom"
     }
